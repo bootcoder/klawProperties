@@ -1,0 +1,18 @@
+!!! 5
+%html.no-js{ :lang => "en"}
+  %head
+
+    %meta{:charset => "utf-8"}/
+    %meta{:content => "width=device-width, initial-scale=1.0", :name => "viewport"}/
+    %title Shady Hollow Properties
+
+
+    = stylesheet_link_tag "application"
+    = javascript_include_tag "vendor/modernizr"
+    = javascript_include_tag "application", 'data-turbolinks-track' => true
+    = csrf_meta_tag
+
+  %body
+
+    = yield
+
