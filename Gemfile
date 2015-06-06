@@ -5,16 +5,16 @@ gem 'rails', '4.1.8'
 gem 'pg'
 gem 'spring',        group: :development
 
-gem 'sass-rails', '~> 4.0.3'
+# gem 'sass-rails', '~> 4.0.3'
 gem 'haml-rails'
 gem 'foundation-rails'
 gem 'uglifier', '>= 1.3.0'
 gem 'coffee-rails', '~> 4.0.0'
 
 gem 'jquery-rails'
-gem 'jquery-easing-rails'
+# gem 'jquery-easing-rails'
 gem 'turbolinks'
-gem 'jbuilder', '~> 2.0'
+# gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0',    group: :doc
 
 
