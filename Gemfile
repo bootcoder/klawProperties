@@ -12,9 +12,9 @@ gem 'uglifier'
 gem 'coffee-rails'
 
 gem 'jquery-rails'
-# gem 'jquery-easing-rails'
+gem 'jquery-easing-rails'
 gem 'turbolinks'
-# gem 'jbuilder', '~> 2.0'
+gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0',    group: :doc
 
 
