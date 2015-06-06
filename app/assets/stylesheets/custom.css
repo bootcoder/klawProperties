@@ -1,5 +1,9 @@
+/** {
+    border: 1px solid blue;
+}*/
+
 .jumbo{
-    background-image: url(new_bg.jpg);
+    background-image: url(sign2.png);
     background-size: 100%;
     background-attachment: fixed;
     padding: 175px 0;
@@ -9,9 +13,11 @@
 
 .jumbo h1{
     color: #fff;
+    font-family: 'Country';
+    font-size: 5em;
     text-align: center;
-    margin-bottom: 15px;
-    font-size: 4em;
+    margin-bottom: 25px;
+    padding-bottom: 10%;
     text-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
 }
 
@@ -53,12 +59,18 @@
   margin-top: -90px;
   height: 90px;
   visibility: hidden;
-
 }
+/*
+.padbottom {
+    padding-bottom: 30%;
+}*/
+
+
 
 section{
     padding-bottom: 150px;
 }
+
 #contact{
     background: #eaeaea;
     padding-bottom: 30px;
@@ -119,6 +131,7 @@ ul, ol, dl {
     font-size: 1.5em !important;
 }
 
+
 button, .button{
     background-color: #ea421e;
     border-color: #ea421e;
@@ -152,13 +165,26 @@ a:hover{
     .jumbo{
     margin-bottom: 0;
     padding: 50px 0 10px;
-
-}
+    }
     .jumbo h1{
     color: #fff;
     text-align: center;
     margin-bottom: 15px;
     font-size: 2em;
     text-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+    }
 }
+
+@font-face {
+  font-family: 'Country';
+  src: url(font-path('/fonts/Country.otf')) format('opentype'),
+  url(font-path('/fonts/Country.ttf')) format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.text-box {
+  border-radius: 35px;
+  background: rgb(54, 25, 25);
+  background: rgba(255, 255, 255, .5);
 }
