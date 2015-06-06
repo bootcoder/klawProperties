@@ -31709,3 +31709,141 @@ Started GET "/assets/train.png" for 127.0.0.1 at 2015-06-06 13:43:43 -0700
 
 
 Started GET "/assets/courthouse.png" for 127.0.0.1 at 2015-06-06 13:43:43 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2015-06-06 13:53:16 -0700
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (25.2ms)
+Completed 200 OK in 562ms (Views: 551.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2015-06-06 13:53:17 -0700
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2015-06-06 13:53:17 -0700
+
+
+Started GET "/assets/foundation_and_overrides.css?body=1" for 127.0.0.1 at 2015-06-06 13:53:17 -0700
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2015-06-06 13:53:17 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-06-06 13:53:17 -0700
+
+
+Started GET "/assets/foundation-icons.css?body=1" for 127.0.0.1 at 2015-06-06 13:53:17 -0700
+
+
+Started GET "/assets/vendor/modernizr.js?body=1" for 127.0.0.1 at 2015-06-06 13:53:17 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-06-06 13:53:17 -0700
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2015-06-06 13:53:17 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-06-06 13:53:17 -0700
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2015-06-06 13:53:17 -0700
+
+
+Started GET "/assets/foundation/foundation.accordion.js?body=1" for 127.0.0.1 at 2015-06-06 13:53:17 -0700
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2015-06-06 13:53:17 -0700
+
+
+Started GET "/assets/foundation/foundation.alert.js?body=1" for 127.0.0.1 at 2015-06-06 13:53:17 -0700
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2015-06-06 13:53:17 -0700
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2015-06-06 13:53:17 -0700
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2015-06-06 13:53:17 -0700
+
+
+Started GET "/assets/foundation/foundation.offcanvas.js?body=1" for 127.0.0.1 at 2015-06-06 13:53:17 -0700
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2015-06-06 13:53:17 -0700
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2015-06-06 13:53:17 -0700
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2015-06-06 13:53:17 -0700
+
+
+Started GET "/assets/foundation/foundation.slider.js?body=1" for 127.0.0.1 at 2015-06-06 13:53:17 -0700
+
+
+Started GET "/assets/foundation/foundation.tab.js?body=1" for 127.0.0.1 at 2015-06-06 13:53:17 -0700
+
+
+Started GET "/assets/foundation/foundation.tooltip.js?body=1" for 127.0.0.1 at 2015-06-06 13:53:17 -0700
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2015-06-06 13:53:17 -0700
+
+
+Started GET "/assets/foundation/foundation.equalizer.js?body=1" for 127.0.0.1 at 2015-06-06 13:53:17 -0700
+
+
+Started GET "/assets/foundation.js?body=1" for 127.0.0.1 at 2015-06-06 13:53:17 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-06-06 13:53:17 -0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2015-06-06 13:53:17 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-06-06 13:53:17 -0700
+
+
+Started GET "/assets/jquery.scrollTo.js?body=1" for 127.0.0.1 at 2015-06-06 13:53:17 -0700
+
+
+Started GET "/assets/tree.png" for 127.0.0.1 at 2015-06-06 13:53:17 -0700
+
+
+Started GET "/assets/dining-port.png" for 127.0.0.1 at 2015-06-06 13:53:17 -0700
+
+
+Started GET "/assets/bathroom-port.png" for 127.0.0.1 at 2015-06-06 13:53:17 -0700
+
+
+Started GET "/assets/bath2-port.png" for 127.0.0.1 at 2015-06-06 13:53:17 -0700
+
+
+Started GET "/assets/bar-port.png" for 127.0.0.1 at 2015-06-06 13:53:17 -0700
+
+
+Started GET "/assets/garage-port.png" for 127.0.0.1 at 2015-06-06 13:53:17 -0700
+
+
+Started GET "/assets/foyer-port.png" for 127.0.0.1 at 2015-06-06 13:53:17 -0700
+
+
+Started GET "/assets/foundation-icons.woff" for 127.0.0.1 at 2015-06-06 13:53:17 -0700
+
+
+Started GET "/assets/shower-port.png" for 127.0.0.1 at 2015-06-06 13:53:17 -0700
+
+
+Started GET "/assets/sign2.png" for 127.0.0.1 at 2015-06-06 13:53:17 -0700
+
+
+Started GET "/assets/train.png" for 127.0.0.1 at 2015-06-06 13:53:17 -0700
+
+
+Started GET "/assets/courthouse.png" for 127.0.0.1 at 2015-06-06 13:53:17 -0700
+
+
+Started GET "/assets/hvac-port.png" for 127.0.0.1 at 2015-06-06 13:53:17 -0700
