@@ -10,15 +10,13 @@
         %li.toggle-topbar.menu-icon
           %a{:href => "#"}
             %span
-      %section.top-bar-section
+      %section.top-bar-section.nav-hover
         / Right Nav Section
         %ul#nav.right
           %li
-            %a These DONT WORK yet
+            %a{:href => "#about"} Community
           %li
-            %a{:href => "#about"} About
-          %li
-            %a{:href => "#portfolio"} Portfolio
+            %a{:href => "#portfolio"} Gallery
           %li
             %a{:href => "#contact"} Contact Us
           %li.social
@@ -84,7 +82,7 @@
       .row
         .large-12.columns
           %div
-            %ul.small-block-grid-1.large-block-grid-4
+            %ul.small-block-grid-1.large-block-grid-3
               %li
                 %h3 Property Heading 1
                 %p Here's a good place to put some copy about your property. Here's a good place to put some copy about your property. Here's a good place to put some copy about your property. Here's a good place to put some copy about your property.
@@ -107,7 +105,10 @@
                   %li
                     %i.fi-mail
                     %a{:href => "mailto:info@yourdomain.com"} info@yourdomain.com
-              %iframe{:frameborder => "0", :height => "450", :src => "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d27555.69972297422!2d-82.98380350836013!3d30.309360829310407!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88eedde036faa23f%3A0x1e6fcdbd78e33e8d!2s7398+119th+Rd%2C+Live+Oak%2C+FL+32060!5e0!3m2!1sen!2sus!4v1433537126837", :style => "border:0", :width => "1000"}
+              %li
+                %ul
+                  %li
+                    %iframe{:frameborder => "0", :height => "450", :src => "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d27555.69972297422!2d-82.98380350836013!3d30.309360829310407!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88eedde036faa23f%3A0x1e6fcdbd78e33e8d!2s7398+119th+Rd%2C+Live+Oak%2C+FL+32060!5e0!3m2!1sen!2sus!4v1433537126837", :style => "border:0", :width => "600"}
     .copy
       .row
         .large-12.columns

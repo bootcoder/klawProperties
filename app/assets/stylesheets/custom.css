@@ -1,6 +1,16 @@
 /** {
     border: 1px solid blue;
 }*/
+/*
+.nav-bg {
+    background-color: green !important;
+}*/
+
+.nav-hover :hover {
+    background-color: gray !important;
+    color: white !important;
+    text-decoration: none !important;
+}
 
 .jumbo{
     background-image: url(sign3.png);
