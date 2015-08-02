@@ -6,8 +6,8 @@ gem 'pg'
 gem 'spring',        group: :development
 
 gem 'sass-rails'
-gem 'foundation-rails'
 gem 'haml-rails'
+gem 'foundation-rails'
 gem 'uglifier'
 gem 'coffee-rails'
 
