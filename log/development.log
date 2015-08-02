@@ -33487,3 +33487,1701 @@ ActionController::RoutingError (No route matches [GET] "/images/sign2.png"):
   Rendered /Users/apprentice/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.9ms)
   Rendered /Users/apprentice/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.1ms)
   Rendered /Users/apprentice/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (47.8ms)
+
+
+Started GET "/" for ::1 at 2015-08-02 12:35:29 -0700
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (19.5ms)
+Completed 200 OK in 306ms (Views: 304.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.self.css?body=1" for ::1 at 2015-08-02 12:35:29 -0700
+
+
+Started GET "/assets/foundation_and_overrides.self.css?body=1" for ::1 at 2015-08-02 12:35:29 -0700
+
+
+Started GET "/assets/home.self.css?body=1" for ::1 at 2015-08-02 12:35:29 -0700
+
+
+Started GET "/assets/application.self.css?body=1" for ::1 at 2015-08-02 12:35:29 -0700
+
+
+Started GET "/assets/font-awesome.self.css?body=1" for ::1 at 2015-08-02 12:35:29 -0700
+
+
+Started GET "/assets/foundation.self.css?body=1" for ::1 at 2015-08-02 12:35:29 -0700
+
+
+Started GET "/assets/foundation-icons.self.css?body=1" for ::1 at 2015-08-02 12:35:29 -0700
+
+
+Started GET "/assets/vendor/modernizr.self.js?body=1" for ::1 at 2015-08-02 12:35:29 -0700
+
+
+Started GET "/assets/jquery.self.js?body=1" for ::1 at 2015-08-02 12:35:29 -0700
+
+
+Started GET "/assets/jquery_ujs.self.js?body=1" for ::1 at 2015-08-02 12:35:29 -0700
+
+
+Started GET "/assets/foundation/foundation.self.js?body=1" for ::1 at 2015-08-02 12:35:29 -0700
+
+
+Started GET "/assets/foundation/foundation.abide.self.js?body=1" for ::1 at 2015-08-02 12:35:29 -0700
+
+
+Started GET "/assets/foundation/foundation.accordion.self.js?body=1" for ::1 at 2015-08-02 12:35:29 -0700
+
+
+Started GET "/assets/foundation/foundation.alert.self.js?body=1" for ::1 at 2015-08-02 12:35:29 -0700
+
+
+Started GET "/assets/foundation/foundation.clearing.self.js?body=1" for ::1 at 2015-08-02 12:35:29 -0700
+
+
+Started GET "/assets/foundation/foundation.equalizer.self.js?body=1" for ::1 at 2015-08-02 12:35:29 -0700
+
+
+Started GET "/assets/foundation/foundation.dropdown.self.js?body=1" for ::1 at 2015-08-02 12:35:29 -0700
+
+
+Started GET "/assets/foundation/foundation.interchange.self.js?body=1" for ::1 at 2015-08-02 12:35:29 -0700
+
+
+Started GET "/assets/foundation/foundation.joyride.self.js?body=1" for ::1 at 2015-08-02 12:35:29 -0700
+
+
+Started GET "/assets/foundation/foundation.magellan.self.js?body=1" for ::1 at 2015-08-02 12:35:29 -0700
+
+
+Started GET "/assets/foundation/foundation.offcanvas.self.js?body=1" for ::1 at 2015-08-02 12:35:29 -0700
+
+
+Started GET "/assets/foundation/foundation.orbit.self.js?body=1" for ::1 at 2015-08-02 12:35:29 -0700
+
+
+Started GET "/assets/foundation/foundation.reveal.self.js?body=1" for ::1 at 2015-08-02 12:35:29 -0700
+
+
+Started GET "/assets/foundation/foundation.slider.self.js?body=1" for ::1 at 2015-08-02 12:35:29 -0700
+
+
+Started GET "/assets/foundation/foundation.tab.self.js?body=1" for ::1 at 2015-08-02 12:35:29 -0700
+
+
+Started GET "/assets/foundation/foundation.tooltip.self.js?body=1" for ::1 at 2015-08-02 12:35:29 -0700
+
+
+Started GET "/assets/foundation/foundation.topbar.self.js?body=1" for ::1 at 2015-08-02 12:35:29 -0700
+
+
+Started GET "/assets/foundation.self.js?body=1" for ::1 at 2015-08-02 12:35:29 -0700
+
+
+Started GET "/assets/turbolinks.self.js?body=1" for ::1 at 2015-08-02 12:35:29 -0700
+
+
+Started GET "/assets/home.self.js?body=1" for ::1 at 2015-08-02 12:35:29 -0700
+
+
+Started GET "/assets/jquery.scrollTo.self.js?body=1" for ::1 at 2015-08-02 12:35:29 -0700
+
+
+Started GET "/assets/application.self.js?body=1" for ::1 at 2015-08-02 12:35:29 -0700
+
+
+Started GET "/assets/courthouse.png" for ::1 at 2015-08-02 12:35:29 -0700
+
+
+Started GET "/assets/train.png" for ::1 at 2015-08-02 12:35:29 -0700
+
+
+Started GET "/assets/bathroom-port.png" for ::1 at 2015-08-02 12:35:29 -0700
+
+
+Started GET "/assets/bar-port.png" for ::1 at 2015-08-02 12:35:29 -0700
+
+
+Started GET "/assets/garage-port.png" for ::1 at 2015-08-02 12:35:29 -0700
+
+
+Started GET "/assets/dining-port.png" for ::1 at 2015-08-02 12:35:29 -0700
+
+
+Started GET "/assets/tree.png" for ::1 at 2015-08-02 12:35:29 -0700
+
+
+Started GET "/assets/bath2-port.png" for ::1 at 2015-08-02 12:35:29 -0700
+
+
+Started GET "/assets/foyer-port.png" for ::1 at 2015-08-02 12:35:29 -0700
+
+
+Started GET "/assets/shower-port.png" for ::1 at 2015-08-02 12:35:29 -0700
+
+
+Started GET "/assets/hvac-port.png" for ::1 at 2015-08-02 12:35:29 -0700
+
+
+Started GET "/assets/images/sign2.png" for ::1 at 2015-08-02 12:35:29 -0700
+
+ActionController::RoutingError (No route matches [GET] "/assets/images/sign2.png"):
+  actionpack (4.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.1) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.1) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.1) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.1) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.1) lib/rails/engine.rb:518:in `call'
+  railties (4.2.1) lib/rails/application.rb:164:in `call'
+  rack (1.6.1) lib/rack/lock.rb:17:in `call'
+  rack (1.6.1) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.1) lib/rack/handler/webrick.rb:89:in `service'
+  /Users/apprentice/.rbenv/versions/2.0.0-p353/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/apprentice/.rbenv/versions/2.0.0-p353/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/apprentice/.rbenv/versions/2.0.0-p353/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/apprentice/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.1ms)
+  Rendered /Users/apprentice/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.8ms)
+  Rendered /Users/apprentice/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.9ms)
+  Rendered /Users/apprentice/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.9ms)
+  Rendered /Users/apprentice/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (44.4ms)
+
+
+Started GET "/assets/foundation-icons.woff" for ::1 at 2015-08-02 12:35:30 -0700
+
+
+Started GET "/assets/fontawesome-webfont.woff2?v=4.3.0" for ::1 at 2015-08-02 12:35:30 -0700
+
+
+Started GET "/" for ::1 at 2015-08-02 12:35:48 -0700
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (8.9ms)
+Completed 200 OK in 360ms (Views: 358.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation_and_overrides.self.css?body=1" for ::1 at 2015-08-02 12:35:49 -0700
+
+
+Started GET "/assets/custom.self.css?body=1" for ::1 at 2015-08-02 12:35:49 -0700
+
+
+Started GET "/assets/foundation.self.css?body=1" for ::1 at 2015-08-02 12:35:49 -0700
+
+
+Started GET "/assets/font-awesome.self.css?body=1" for ::1 at 2015-08-02 12:35:49 -0700
+
+
+Started GET "/assets/application.self.css?body=1" for ::1 at 2015-08-02 12:35:49 -0700
+
+
+Started GET "/assets/home.self.css?body=1" for ::1 at 2015-08-02 12:35:49 -0700
+
+
+Started GET "/assets/foundation-icons.self.css?body=1" for ::1 at 2015-08-02 12:35:49 -0700
+
+
+Started GET "/assets/vendor/modernizr.self.js?body=1" for ::1 at 2015-08-02 12:35:49 -0700
+
+
+Started GET "/assets/jquery.self.js?body=1" for ::1 at 2015-08-02 12:35:49 -0700
+
+
+Started GET "/assets/jquery_ujs.self.js?body=1" for ::1 at 2015-08-02 12:35:49 -0700
+
+
+Started GET "/assets/foundation/foundation.self.js?body=1" for ::1 at 2015-08-02 12:35:49 -0700
+
+
+Started GET "/assets/foundation/foundation.abide.self.js?body=1" for ::1 at 2015-08-02 12:35:49 -0700
+
+
+Started GET "/assets/foundation/foundation.accordion.self.js?body=1" for ::1 at 2015-08-02 12:35:49 -0700
+
+
+Started GET "/assets/foundation/foundation.alert.self.js?body=1" for ::1 at 2015-08-02 12:35:49 -0700
+
+
+Started GET "/assets/foundation/foundation.clearing.self.js?body=1" for ::1 at 2015-08-02 12:35:49 -0700
+
+
+Started GET "/assets/foundation/foundation.dropdown.self.js?body=1" for ::1 at 2015-08-02 12:35:49 -0700
+
+
+Started GET "/assets/foundation/foundation.equalizer.self.js?body=1" for ::1 at 2015-08-02 12:35:49 -0700
+
+
+Started GET "/assets/foundation/foundation.interchange.self.js?body=1" for ::1 at 2015-08-02 12:35:49 -0700
+
+
+Started GET "/assets/foundation/foundation.joyride.self.js?body=1" for ::1 at 2015-08-02 12:35:49 -0700
+
+
+Started GET "/assets/foundation/foundation.magellan.self.js?body=1" for ::1 at 2015-08-02 12:35:49 -0700
+
+
+Started GET "/assets/foundation/foundation.offcanvas.self.js?body=1" for ::1 at 2015-08-02 12:35:49 -0700
+
+
+Started GET "/assets/foundation/foundation.orbit.self.js?body=1" for ::1 at 2015-08-02 12:35:49 -0700
+
+
+Started GET "/assets/foundation/foundation.reveal.self.js?body=1" for ::1 at 2015-08-02 12:35:49 -0700
+
+
+Started GET "/assets/foundation/foundation.slider.self.js?body=1" for ::1 at 2015-08-02 12:35:49 -0700
+
+
+Started GET "/assets/foundation/foundation.tab.self.js?body=1" for ::1 at 2015-08-02 12:35:49 -0700
+
+
+Started GET "/assets/foundation/foundation.tooltip.self.js?body=1" for ::1 at 2015-08-02 12:35:49 -0700
+
+
+Started GET "/assets/foundation/foundation.topbar.self.js?body=1" for ::1 at 2015-08-02 12:35:49 -0700
+
+
+Started GET "/assets/foundation.self.js?body=1" for ::1 at 2015-08-02 12:35:49 -0700
+
+
+Started GET "/assets/turbolinks.self.js?body=1" for ::1 at 2015-08-02 12:35:49 -0700
+
+
+Started GET "/assets/home.self.js?body=1" for ::1 at 2015-08-02 12:35:49 -0700
+
+
+Started GET "/assets/jquery.scrollTo.self.js?body=1" for ::1 at 2015-08-02 12:35:49 -0700
+
+
+Started GET "/assets/application.self.js?body=1" for ::1 at 2015-08-02 12:35:49 -0700
+
+
+Started GET "/assets/courthouse.png" for ::1 at 2015-08-02 12:35:49 -0700
+
+
+Started GET "/assets/tree.png" for ::1 at 2015-08-02 12:35:49 -0700
+
+
+Started GET "/assets/dining-port.png" for ::1 at 2015-08-02 12:35:49 -0700
+
+
+Started GET "/assets/bathroom-port.png" for ::1 at 2015-08-02 12:35:49 -0700
+
+
+Started GET "/assets/bar-port.png" for ::1 at 2015-08-02 12:35:49 -0700
+
+
+Started GET "/assets/fontawesome-webfont.woff2?v=4.3.0" for ::1 at 2015-08-02 12:35:49 -0700
+
+
+Started GET "/assets/train.png" for ::1 at 2015-08-02 12:35:49 -0700
+
+
+Started GET "/assets/sign2.png" for ::1 at 2015-08-02 12:35:49 -0700
+
+
+Started GET "/assets/garage-port.png" for ::1 at 2015-08-02 12:35:49 -0700
+
+
+Started GET "/assets/bath2-port.png" for ::1 at 2015-08-02 12:35:49 -0700
+
+
+Started GET "/assets/foundation-icons.woff" for ::1 at 2015-08-02 12:35:49 -0700
+
+
+Started GET "/assets/foyer-port.png" for ::1 at 2015-08-02 12:35:49 -0700
+
+
+Started GET "/assets/shower-port.png" for ::1 at 2015-08-02 12:35:49 -0700
+
+
+Started GET "/assets/hvac-port.png" for ::1 at 2015-08-02 12:35:49 -0700
+
+
+Started GET "/" for ::1 at 2015-08-02 12:38:22 -0700
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (22.2ms)
+Completed 500 Internal Server Error in 25ms (ActiveRecord: 0.0ms)
+
+NameError - undefined local variable or method `sign2' for #<#<Class:0x007fafb7580458>:0x007fafbd1aafa8>:
+  app/views/home/index.html.haml:34:in `_app_views_home_index_html_haml__1503741511071675795_70196384321020'
+  actionview (4.2.1) lib/action_view/template.rb:145:in `block in render'
+  activesupport (4.2.1) lib/active_support/notifications.rb:166:in `instrument'
+  actionview (4.2.1) lib/action_view/template.rb:333:in `instrument'
+  actionview (4.2.1) lib/action_view/template.rb:143:in `render'
+  actionview (4.2.1) lib/action_view/renderer/template_renderer.rb:54:in `block (2 levels) in render_template'
+  actionview (4.2.1) lib/action_view/renderer/abstract_renderer.rb:39:in `block in instrument'
+  activesupport (4.2.1) lib/active_support/notifications.rb:164:in `block in instrument'
+  activesupport (4.2.1) lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  activesupport (4.2.1) lib/active_support/notifications.rb:164:in `instrument'
+  actionview (4.2.1) lib/action_view/renderer/abstract_renderer.rb:39:in `instrument'
+  actionview (4.2.1) lib/action_view/renderer/template_renderer.rb:53:in `block in render_template'
+  actionview (4.2.1) lib/action_view/renderer/template_renderer.rb:61:in `render_with_layout'
+  actionview (4.2.1) lib/action_view/renderer/template_renderer.rb:52:in `render_template'
+  actionview (4.2.1) lib/action_view/renderer/template_renderer.rb:14:in `render'
+  actionview (4.2.1) lib/action_view/renderer/renderer.rb:42:in `render_template'
+  actionview (4.2.1) lib/action_view/renderer/renderer.rb:23:in `render'
+  actionview (4.2.1) lib/action_view/rendering.rb:100:in `_render_template'
+  actionpack (4.2.1) lib/action_controller/metal/streaming.rb:217:in `_render_template'
+  actionview (4.2.1) lib/action_view/rendering.rb:83:in `render_to_body'
+  actionpack (4.2.1) lib/action_controller/metal/rendering.rb:32:in `render_to_body'
+  actionpack (4.2.1) lib/action_controller/metal/renderers.rb:37:in `render_to_body'
+  actionpack (4.2.1) lib/abstract_controller/rendering.rb:25:in `render'
+  actionpack (4.2.1) lib/action_controller/metal/rendering.rb:16:in `render'
+  actionpack (4.2.1) lib/action_controller/metal/instrumentation.rb:44:in `block (2 levels) in render'
+  activesupport (4.2.1) lib/active_support/core_ext/benchmark.rb:12:in `block in ms'
+  /Users/apprentice/.rbenv/versions/2.0.0-p353/lib/ruby/2.0.0/benchmark.rb:296:in `realtime'
+  activesupport (4.2.1) lib/active_support/core_ext/benchmark.rb:12:in `ms'
+  actionpack (4.2.1) lib/action_controller/metal/instrumentation.rb:44:in `block in render'
+  actionpack (4.2.1) lib/action_controller/metal/instrumentation.rb:87:in `cleanup_view_runtime'
+  activerecord (4.2.1) lib/active_record/railties/controller_runtime.rb:25:in `cleanup_view_runtime'
+  actionpack (4.2.1) lib/action_controller/metal/instrumentation.rb:43:in `render'
+  app/controllers/home_controller.rb:4:in `index'
+  actionpack (4.2.1) lib/action_controller/metal/implicit_render.rb:4:in `send_action'
+  actionpack (4.2.1) lib/abstract_controller/base.rb:198:in `process_action'
+  actionpack (4.2.1) lib/action_controller/metal/rendering.rb:10:in `process_action'
+  actionpack (4.2.1) lib/abstract_controller/callbacks.rb:20:in `block in process_action'
+  activesupport (4.2.1) lib/active_support/callbacks.rb:117:in `call'
+  activesupport (4.2.1) lib/active_support/callbacks.rb:555:in `block (2 levels) in compile'
+  activesupport (4.2.1) lib/active_support/callbacks.rb:505:in `call'
+  activesupport (4.2.1) lib/active_support/callbacks.rb:92:in `_run_callbacks'
+  activesupport (4.2.1) lib/active_support/callbacks.rb:776:in `_run_process_action_callbacks'
+  activesupport (4.2.1) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (4.2.1) lib/abstract_controller/callbacks.rb:19:in `process_action'
+  actionpack (4.2.1) lib/action_controller/metal/rescue.rb:29:in `process_action'
+  actionpack (4.2.1) lib/action_controller/metal/instrumentation.rb:32:in `block in process_action'
+  activesupport (4.2.1) lib/active_support/notifications.rb:164:in `block in instrument'
+  activesupport (4.2.1) lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  activesupport (4.2.1) lib/active_support/notifications.rb:164:in `instrument'
+  actionpack (4.2.1) lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+  actionpack (4.2.1) lib/action_controller/metal/params_wrapper.rb:250:in `process_action'
+  activerecord (4.2.1) lib/active_record/railties/controller_runtime.rb:18:in `process_action'
+  actionpack (4.2.1) lib/abstract_controller/base.rb:137:in `process'
+  actionview (4.2.1) lib/action_view/rendering.rb:30:in `process'
+  actionpack (4.2.1) lib/action_controller/metal.rb:196:in `dispatch'
+  actionpack (4.2.1) lib/action_controller/metal/rack_delegation.rb:13:in `dispatch'
+  actionpack (4.2.1) lib/action_controller/metal.rb:237:in `block in action'
+  actionpack (4.2.1) lib/action_dispatch/routing/route_set.rb:74:in `dispatch'
+  actionpack (4.2.1) lib/action_dispatch/routing/route_set.rb:43:in `serve'
+  actionpack (4.2.1) lib/action_dispatch/journey/router.rb:43:in `block in serve'
+  actionpack (4.2.1) lib/action_dispatch/journey/router.rb:30:in `serve'
+  actionpack (4.2.1) lib/action_dispatch/routing/route_set.rb:819:in `call'
+  rack (1.6.1) lib/rack/etag.rb:24:in `call'
+  rack (1.6.1) lib/rack/conditionalget.rb:25:in `call'
+  rack (1.6.1) lib/rack/head.rb:13:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/flash.rb:260:in `call'
+  rack (1.6.1) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.6.1) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/cookies.rb:560:in `call'
+  activerecord (4.2.1) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.2.1) lib/active_record/connection_adapters/abstract/connection_pool.rb:649:in `call'
+  activerecord (4.2.1) lib/active_record/migration.rb:378:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.2.1) lib/active_support/callbacks.rb:88:in `_run_callbacks'
+  activesupport (4.2.1) lib/active_support/callbacks.rb:776:in `_run_call_callbacks'
+  activesupport (4.2.1) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (4.2.1) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/reloader.rb:73:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/remote_ip.rb:78:in `call'
+  better_errors (2.1.1) lib/better_errors/middleware.rb:84:in `protected_app_call'
+  better_errors (2.1.1) lib/better_errors/middleware.rb:79:in `better_errors_call'
+  better_errors (2.1.1) lib/better_errors/middleware.rb:57:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.1) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.1) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.1) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.1) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.1) lib/rails/engine.rb:518:in `call'
+  railties (4.2.1) lib/rails/application.rb:164:in `call'
+  rack (1.6.1) lib/rack/lock.rb:17:in `call'
+  rack (1.6.1) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.1) lib/rack/handler/webrick.rb:89:in `service'
+  /Users/apprentice/.rbenv/versions/2.0.0-p353/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/apprentice/.rbenv/versions/2.0.0-p353/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/apprentice/.rbenv/versions/2.0.0-p353/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+
+Started POST "/__better_errors/0505286a6af59e6d/variables" for ::1 at 2015-08-02 12:38:23 -0700
+
+
+Started GET "/" for ::1 at 2015-08-02 12:38:36 -0700
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (10.7ms)
+Completed 500 Internal Server Error in 13ms (ActiveRecord: 0.0ms)
+
+NameError - undefined local variable or method `sign2' for #<#<Class:0x007fafb7580458>:0x007fafb95130b8>:
+  app/views/home/index.html.haml:34:in `_app_views_home_index_html_haml__1503741511071675795_70196384321020'
+  actionview (4.2.1) lib/action_view/template.rb:145:in `block in render'
+  activesupport (4.2.1) lib/active_support/notifications.rb:166:in `instrument'
+  actionview (4.2.1) lib/action_view/template.rb:333:in `instrument'
+  actionview (4.2.1) lib/action_view/template.rb:143:in `render'
+  actionview (4.2.1) lib/action_view/renderer/template_renderer.rb:54:in `block (2 levels) in render_template'
+  actionview (4.2.1) lib/action_view/renderer/abstract_renderer.rb:39:in `block in instrument'
+  activesupport (4.2.1) lib/active_support/notifications.rb:164:in `block in instrument'
+  activesupport (4.2.1) lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  activesupport (4.2.1) lib/active_support/notifications.rb:164:in `instrument'
+  actionview (4.2.1) lib/action_view/renderer/abstract_renderer.rb:39:in `instrument'
+  actionview (4.2.1) lib/action_view/renderer/template_renderer.rb:53:in `block in render_template'
+  actionview (4.2.1) lib/action_view/renderer/template_renderer.rb:61:in `render_with_layout'
+  actionview (4.2.1) lib/action_view/renderer/template_renderer.rb:52:in `render_template'
+  actionview (4.2.1) lib/action_view/renderer/template_renderer.rb:14:in `render'
+  actionview (4.2.1) lib/action_view/renderer/renderer.rb:42:in `render_template'
+  actionview (4.2.1) lib/action_view/renderer/renderer.rb:23:in `render'
+  actionview (4.2.1) lib/action_view/rendering.rb:100:in `_render_template'
+  actionpack (4.2.1) lib/action_controller/metal/streaming.rb:217:in `_render_template'
+  actionview (4.2.1) lib/action_view/rendering.rb:83:in `render_to_body'
+  actionpack (4.2.1) lib/action_controller/metal/rendering.rb:32:in `render_to_body'
+  actionpack (4.2.1) lib/action_controller/metal/renderers.rb:37:in `render_to_body'
+  actionpack (4.2.1) lib/abstract_controller/rendering.rb:25:in `render'
+  actionpack (4.2.1) lib/action_controller/metal/rendering.rb:16:in `render'
+  actionpack (4.2.1) lib/action_controller/metal/instrumentation.rb:44:in `block (2 levels) in render'
+  activesupport (4.2.1) lib/active_support/core_ext/benchmark.rb:12:in `block in ms'
+  /Users/apprentice/.rbenv/versions/2.0.0-p353/lib/ruby/2.0.0/benchmark.rb:296:in `realtime'
+  activesupport (4.2.1) lib/active_support/core_ext/benchmark.rb:12:in `ms'
+  actionpack (4.2.1) lib/action_controller/metal/instrumentation.rb:44:in `block in render'
+  actionpack (4.2.1) lib/action_controller/metal/instrumentation.rb:87:in `cleanup_view_runtime'
+  activerecord (4.2.1) lib/active_record/railties/controller_runtime.rb:25:in `cleanup_view_runtime'
+  actionpack (4.2.1) lib/action_controller/metal/instrumentation.rb:43:in `render'
+  app/controllers/home_controller.rb:4:in `index'
+  actionpack (4.2.1) lib/action_controller/metal/implicit_render.rb:4:in `send_action'
+  actionpack (4.2.1) lib/abstract_controller/base.rb:198:in `process_action'
+  actionpack (4.2.1) lib/action_controller/metal/rendering.rb:10:in `process_action'
+  actionpack (4.2.1) lib/abstract_controller/callbacks.rb:20:in `block in process_action'
+  activesupport (4.2.1) lib/active_support/callbacks.rb:117:in `call'
+  activesupport (4.2.1) lib/active_support/callbacks.rb:555:in `block (2 levels) in compile'
+  activesupport (4.2.1) lib/active_support/callbacks.rb:505:in `call'
+  activesupport (4.2.1) lib/active_support/callbacks.rb:92:in `_run_callbacks'
+  activesupport (4.2.1) lib/active_support/callbacks.rb:776:in `_run_process_action_callbacks'
+  activesupport (4.2.1) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (4.2.1) lib/abstract_controller/callbacks.rb:19:in `process_action'
+  actionpack (4.2.1) lib/action_controller/metal/rescue.rb:29:in `process_action'
+  actionpack (4.2.1) lib/action_controller/metal/instrumentation.rb:32:in `block in process_action'
+  activesupport (4.2.1) lib/active_support/notifications.rb:164:in `block in instrument'
+  activesupport (4.2.1) lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  activesupport (4.2.1) lib/active_support/notifications.rb:164:in `instrument'
+  actionpack (4.2.1) lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+  actionpack (4.2.1) lib/action_controller/metal/params_wrapper.rb:250:in `process_action'
+  activerecord (4.2.1) lib/active_record/railties/controller_runtime.rb:18:in `process_action'
+  actionpack (4.2.1) lib/abstract_controller/base.rb:137:in `process'
+  actionview (4.2.1) lib/action_view/rendering.rb:30:in `process'
+  actionpack (4.2.1) lib/action_controller/metal.rb:196:in `dispatch'
+  actionpack (4.2.1) lib/action_controller/metal/rack_delegation.rb:13:in `dispatch'
+  actionpack (4.2.1) lib/action_controller/metal.rb:237:in `block in action'
+  actionpack (4.2.1) lib/action_dispatch/routing/route_set.rb:74:in `dispatch'
+  actionpack (4.2.1) lib/action_dispatch/routing/route_set.rb:43:in `serve'
+  actionpack (4.2.1) lib/action_dispatch/journey/router.rb:43:in `block in serve'
+  actionpack (4.2.1) lib/action_dispatch/journey/router.rb:30:in `serve'
+  actionpack (4.2.1) lib/action_dispatch/routing/route_set.rb:819:in `call'
+  rack (1.6.1) lib/rack/etag.rb:24:in `call'
+  rack (1.6.1) lib/rack/conditionalget.rb:25:in `call'
+  rack (1.6.1) lib/rack/head.rb:13:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/flash.rb:260:in `call'
+  rack (1.6.1) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.6.1) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/cookies.rb:560:in `call'
+  activerecord (4.2.1) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.2.1) lib/active_record/connection_adapters/abstract/connection_pool.rb:649:in `call'
+  activerecord (4.2.1) lib/active_record/migration.rb:378:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.2.1) lib/active_support/callbacks.rb:88:in `_run_callbacks'
+  activesupport (4.2.1) lib/active_support/callbacks.rb:776:in `_run_call_callbacks'
+  activesupport (4.2.1) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (4.2.1) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/reloader.rb:73:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/remote_ip.rb:78:in `call'
+  better_errors (2.1.1) lib/better_errors/middleware.rb:84:in `protected_app_call'
+  better_errors (2.1.1) lib/better_errors/middleware.rb:79:in `better_errors_call'
+  better_errors (2.1.1) lib/better_errors/middleware.rb:57:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.1) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.1) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.1) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.1) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.1) lib/rails/engine.rb:518:in `call'
+  railties (4.2.1) lib/rails/application.rb:164:in `call'
+  rack (1.6.1) lib/rack/lock.rb:17:in `call'
+  rack (1.6.1) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.1) lib/rack/handler/webrick.rb:89:in `service'
+  /Users/apprentice/.rbenv/versions/2.0.0-p353/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/apprentice/.rbenv/versions/2.0.0-p353/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/apprentice/.rbenv/versions/2.0.0-p353/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+
+Started POST "/__better_errors/0878d4a2d65a6014/variables" for ::1 at 2015-08-02 12:38:36 -0700
+
+
+Started GET "/" for ::1 at 2015-08-02 12:38:47 -0700
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (25.8ms)
+Completed 200 OK in 610ms (Views: 608.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation_and_overrides.self.css?body=1" for ::1 at 2015-08-02 12:38:48 -0700
+
+
+Started GET "/assets/foundation.self.css?body=1" for ::1 at 2015-08-02 12:38:48 -0700
+
+
+Started GET "/assets/font-awesome.self.css?body=1" for ::1 at 2015-08-02 12:38:48 -0700
+
+
+Started GET "/assets/home.self.css?body=1" for ::1 at 2015-08-02 12:38:48 -0700
+
+
+Started GET "/assets/application.self.css?body=1" for ::1 at 2015-08-02 12:38:48 -0700
+
+
+Started GET "/assets/custom.self.css?body=1" for ::1 at 2015-08-02 12:38:48 -0700
+
+
+Started GET "/assets/foundation-icons.self.css?body=1" for ::1 at 2015-08-02 12:38:48 -0700
+
+
+Started GET "/assets/vendor/modernizr.self.js?body=1" for ::1 at 2015-08-02 12:38:48 -0700
+
+
+Started GET "/assets/jquery_ujs.self.js?body=1" for ::1 at 2015-08-02 12:38:48 -0700
+
+
+Started GET "/assets/jquery.self.js?body=1" for ::1 at 2015-08-02 12:38:48 -0700
+
+
+Started GET "/assets/foundation/foundation.self.js?body=1" for ::1 at 2015-08-02 12:38:48 -0700
+
+
+Started GET "/assets/foundation/foundation.accordion.self.js?body=1" for ::1 at 2015-08-02 12:38:48 -0700
+
+
+Started GET "/assets/foundation/foundation.alert.self.js?body=1" for ::1 at 2015-08-02 12:38:48 -0700
+
+
+Started GET "/assets/foundation/foundation.clearing.self.js?body=1" for ::1 at 2015-08-02 12:38:48 -0700
+
+
+Started GET "/assets/foundation/foundation.abide.self.js?body=1" for ::1 at 2015-08-02 12:38:48 -0700
+
+
+Started GET "/assets/foundation/foundation.dropdown.self.js?body=1" for ::1 at 2015-08-02 12:38:48 -0700
+
+
+Started GET "/assets/foundation/foundation.equalizer.self.js?body=1" for ::1 at 2015-08-02 12:38:48 -0700
+
+
+Started GET "/assets/foundation/foundation.interchange.self.js?body=1" for ::1 at 2015-08-02 12:38:48 -0700
+
+
+Started GET "/assets/foundation/foundation.joyride.self.js?body=1" for ::1 at 2015-08-02 12:38:48 -0700
+
+
+Started GET "/assets/foundation/foundation.magellan.self.js?body=1" for ::1 at 2015-08-02 12:38:48 -0700
+
+
+Started GET "/assets/foundation/foundation.offcanvas.self.js?body=1" for ::1 at 2015-08-02 12:38:48 -0700
+
+
+Started GET "/assets/foundation/foundation.orbit.self.js?body=1" for ::1 at 2015-08-02 12:38:48 -0700
+
+
+Started GET "/assets/foundation/foundation.reveal.self.js?body=1" for ::1 at 2015-08-02 12:38:48 -0700
+
+
+Started GET "/assets/foundation/foundation.slider.self.js?body=1" for ::1 at 2015-08-02 12:38:48 -0700
+
+
+Started GET "/assets/foundation/foundation.tab.self.js?body=1" for ::1 at 2015-08-02 12:38:48 -0700
+
+
+Started GET "/assets/foundation/foundation.tooltip.self.js?body=1" for ::1 at 2015-08-02 12:38:48 -0700
+
+
+Started GET "/assets/foundation/foundation.topbar.self.js?body=1" for ::1 at 2015-08-02 12:38:48 -0700
+
+
+Started GET "/assets/foundation.self.js?body=1" for ::1 at 2015-08-02 12:38:48 -0700
+
+
+Started GET "/assets/turbolinks.self.js?body=1" for ::1 at 2015-08-02 12:38:48 -0700
+
+
+Started GET "/assets/home.self.js?body=1" for ::1 at 2015-08-02 12:38:49 -0700
+
+
+Started GET "/assets/jquery.scrollTo.self.js?body=1" for ::1 at 2015-08-02 12:38:49 -0700
+
+
+Started GET "/assets/application.self.js?body=1" for ::1 at 2015-08-02 12:38:49 -0700
+
+
+Started GET "/assets/sign2.png" for ::1 at 2015-08-02 12:38:49 -0700
+
+ActionController::RoutingError (No route matches [GET] "/assets/sign2.png"):
+  actionpack (4.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.1) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.1) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.1) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.1) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.1) lib/rails/engine.rb:518:in `call'
+  railties (4.2.1) lib/rails/application.rb:164:in `call'
+  rack (1.6.1) lib/rack/lock.rb:17:in `call'
+  rack (1.6.1) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.1) lib/rack/handler/webrick.rb:89:in `service'
+  /Users/apprentice/.rbenv/versions/2.0.0-p353/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/apprentice/.rbenv/versions/2.0.0-p353/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/apprentice/.rbenv/versions/2.0.0-p353/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/apprentice/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (7.1ms)
+  Rendered /Users/apprentice/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.7ms)
+  Rendered /Users/apprentice/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.9ms)
+  Rendered /Users/apprentice/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.3ms)
+  Rendered /Users/apprentice/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (47.7ms)
+
+
+Started GET "/assets/courthouse.png" for ::1 at 2015-08-02 12:38:49 -0700
+
+
+Started GET "/assets/train.png" for ::1 at 2015-08-02 12:38:49 -0700
+
+
+Started GET "/assets/dining-port.png" for ::1 at 2015-08-02 12:38:49 -0700
+
+
+Started GET "/assets/bathroom-port.png" for ::1 at 2015-08-02 12:38:49 -0700
+
+
+Started GET "/assets/tree.png" for ::1 at 2015-08-02 12:38:49 -0700
+
+
+Started GET "/assets/fontawesome-webfont.woff2?v=4.3.0" for ::1 at 2015-08-02 12:38:49 -0700
+
+
+Started GET "/assets/foundation-icons.woff" for ::1 at 2015-08-02 12:38:49 -0700
+
+
+Started GET "/assets/sign3.png" for ::1 at 2015-08-02 12:38:49 -0700
+
+
+Started GET "/assets/bar-port.png" for ::1 at 2015-08-02 12:38:49 -0700
+
+
+Started GET "/assets/garage-port.png" for ::1 at 2015-08-02 12:38:49 -0700
+
+
+Started GET "/assets/bath2-port.png" for ::1 at 2015-08-02 12:38:49 -0700
+
+
+Started GET "/assets/foyer-port.png" for ::1 at 2015-08-02 12:38:49 -0700
+
+
+Started GET "/assets/shower-port.png" for ::1 at 2015-08-02 12:38:49 -0700
+
+
+Started GET "/assets/hvac-port.png" for ::1 at 2015-08-02 12:38:49 -0700
+
+
+Started GET "/" for ::1 at 2015-08-02 12:38:57 -0700
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (11.5ms)
+Completed 200 OK in 453ms (Views: 451.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.self.css?body=1" for ::1 at 2015-08-02 12:38:58 -0700
+
+
+Started GET "/assets/font-awesome.self.css?body=1" for ::1 at 2015-08-02 12:38:58 -0700
+
+
+Started GET "/assets/home.self.css?body=1" for ::1 at 2015-08-02 12:38:58 -0700
+
+
+Started GET "/assets/application.self.css?body=1" for ::1 at 2015-08-02 12:38:58 -0700
+
+
+Started GET "/assets/foundation_and_overrides.self.css?body=1" for ::1 at 2015-08-02 12:38:58 -0700
+
+
+Started GET "/assets/foundation.self.css?body=1" for ::1 at 2015-08-02 12:38:58 -0700
+
+
+Started GET "/assets/foundation-icons.self.css?body=1" for ::1 at 2015-08-02 12:38:58 -0700
+
+
+Started GET "/assets/vendor/modernizr.self.js?body=1" for ::1 at 2015-08-02 12:38:58 -0700
+
+
+Started GET "/assets/jquery.self.js?body=1" for ::1 at 2015-08-02 12:38:58 -0700
+
+
+Started GET "/assets/jquery_ujs.self.js?body=1" for ::1 at 2015-08-02 12:38:58 -0700
+
+
+Started GET "/assets/foundation/foundation.self.js?body=1" for ::1 at 2015-08-02 12:38:58 -0700
+
+
+Started GET "/assets/foundation/foundation.abide.self.js?body=1" for ::1 at 2015-08-02 12:38:58 -0700
+
+
+Started GET "/assets/foundation/foundation.alert.self.js?body=1" for ::1 at 2015-08-02 12:38:58 -0700
+
+
+Started GET "/assets/foundation/foundation.clearing.self.js?body=1" for ::1 at 2015-08-02 12:38:58 -0700
+
+
+Started GET "/assets/foundation/foundation.dropdown.self.js?body=1" for ::1 at 2015-08-02 12:38:58 -0700
+
+
+Started GET "/assets/foundation/foundation.equalizer.self.js?body=1" for ::1 at 2015-08-02 12:38:58 -0700
+
+
+Started GET "/assets/foundation/foundation.interchange.self.js?body=1" for ::1 at 2015-08-02 12:38:58 -0700
+
+
+Started GET "/assets/foundation/foundation.accordion.self.js?body=1" for ::1 at 2015-08-02 12:38:58 -0700
+
+
+Started GET "/assets/foundation/foundation.joyride.self.js?body=1" for ::1 at 2015-08-02 12:38:58 -0700
+
+
+Started GET "/assets/foundation/foundation.magellan.self.js?body=1" for ::1 at 2015-08-02 12:38:58 -0700
+
+
+Started GET "/assets/foundation/foundation.offcanvas.self.js?body=1" for ::1 at 2015-08-02 12:38:58 -0700
+
+
+Started GET "/assets/foundation/foundation.orbit.self.js?body=1" for ::1 at 2015-08-02 12:38:58 -0700
+
+
+Started GET "/assets/foundation/foundation.reveal.self.js?body=1" for ::1 at 2015-08-02 12:38:58 -0700
+
+
+Started GET "/assets/foundation/foundation.slider.self.js?body=1" for ::1 at 2015-08-02 12:38:58 -0700
+
+
+Started GET "/assets/foundation/foundation.tab.self.js?body=1" for ::1 at 2015-08-02 12:38:58 -0700
+
+
+Started GET "/assets/foundation/foundation.tooltip.self.js?body=1" for ::1 at 2015-08-02 12:38:58 -0700
+
+
+Started GET "/assets/foundation/foundation.topbar.self.js?body=1" for ::1 at 2015-08-02 12:38:58 -0700
+
+
+Started GET "/assets/foundation.self.js?body=1" for ::1 at 2015-08-02 12:38:58 -0700
+
+
+Started GET "/assets/turbolinks.self.js?body=1" for ::1 at 2015-08-02 12:38:58 -0700
+
+
+Started GET "/assets/home.self.js?body=1" for ::1 at 2015-08-02 12:38:58 -0700
+
+
+Started GET "/assets/jquery.scrollTo.self.js?body=1" for ::1 at 2015-08-02 12:38:58 -0700
+
+
+Started GET "/assets/application.self.js?body=1" for ::1 at 2015-08-02 12:38:58 -0700
+
+
+Started GET "/assets/sign2.png" for ::1 at 2015-08-02 12:38:58 -0700
+
+ActionController::RoutingError (No route matches [GET] "/assets/sign2.png"):
+  actionpack (4.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.1) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.1) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.1) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.1) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.1) lib/rails/engine.rb:518:in `call'
+  railties (4.2.1) lib/rails/application.rb:164:in `call'
+  rack (1.6.1) lib/rack/lock.rb:17:in `call'
+  rack (1.6.1) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.1) lib/rack/handler/webrick.rb:89:in `service'
+  /Users/apprentice/.rbenv/versions/2.0.0-p353/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/apprentice/.rbenv/versions/2.0.0-p353/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/apprentice/.rbenv/versions/2.0.0-p353/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/apprentice/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.0ms)
+  Rendered /Users/apprentice/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb (2.1ms)
+  Rendered /Users/apprentice/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (2.0ms)
+  Rendered /Users/apprentice/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.8ms)
+  Rendered /Users/apprentice/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (48.5ms)
+
+
+Started GET "/assets/courthouse.png" for ::1 at 2015-08-02 12:38:58 -0700
+
+
+Started GET "/assets/train.png" for ::1 at 2015-08-02 12:38:58 -0700
+
+
+Started GET "/assets/dining-port.png" for ::1 at 2015-08-02 12:38:58 -0700
+
+
+Started GET "/assets/bathroom-port.png" for ::1 at 2015-08-02 12:38:58 -0700
+
+
+Started GET "/assets/tree.png" for ::1 at 2015-08-02 12:38:58 -0700
+
+
+Started GET "/assets/fontawesome-webfont.woff2?v=4.3.0" for ::1 at 2015-08-02 12:38:58 -0700
+
+
+Started GET "/assets/foundation-icons.woff" for ::1 at 2015-08-02 12:38:58 -0700
+
+
+Started GET "/assets/garage-port.png" for ::1 at 2015-08-02 12:38:58 -0700
+
+
+Started GET "/assets/bar-port.png" for ::1 at 2015-08-02 12:38:58 -0700
+
+
+Started GET "/assets/sign.png" for ::1 at 2015-08-02 12:38:58 -0700
+
+ActionController::RoutingError (No route matches [GET] "/assets/sign.png"):
+  actionpack (4.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.1) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.1) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.1) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.1) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.1) lib/rails/engine.rb:518:in `call'
+  railties (4.2.1) lib/rails/application.rb:164:in `call'
+  rack (1.6.1) lib/rack/lock.rb:17:in `call'
+  rack (1.6.1) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.1) lib/rack/handler/webrick.rb:89:in `service'
+  /Users/apprentice/.rbenv/versions/2.0.0-p353/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/apprentice/.rbenv/versions/2.0.0-p353/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/apprentice/.rbenv/versions/2.0.0-p353/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/apprentice/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.1ms)
+  Rendered /Users/apprentice/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.6ms)
+  Rendered /Users/apprentice/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (2.0ms)
+  Rendered /Users/apprentice/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.7ms)
+  Rendered /Users/apprentice/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (29.1ms)
+
+
+Started GET "/assets/foyer-port.png" for ::1 at 2015-08-02 12:38:58 -0700
+
+
+Started GET "/assets/bath2-port.png" for ::1 at 2015-08-02 12:38:58 -0700
+
+
+Started GET "/assets/shower-port.png" for ::1 at 2015-08-02 12:38:58 -0700
+
+
+Started GET "/assets/hvac-port.png" for ::1 at 2015-08-02 12:38:58 -0700
+
+
+Started GET "/" for ::1 at 2015-08-02 12:39:13 -0700
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (13.8ms)
+Completed 200 OK in 318ms (Views: 317.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.self.css?body=1" for ::1 at 2015-08-02 12:39:13 -0700
+
+
+Started GET "/assets/foundation_and_overrides.self.css?body=1" for ::1 at 2015-08-02 12:39:13 -0700
+
+
+Started GET "/assets/home.self.css?body=1" for ::1 at 2015-08-02 12:39:13 -0700
+
+
+Started GET "/assets/font-awesome.self.css?body=1" for ::1 at 2015-08-02 12:39:13 -0700
+
+
+Started GET "/assets/application.self.css?body=1" for ::1 at 2015-08-02 12:39:13 -0700
+
+
+Started GET "/assets/foundation.self.css?body=1" for ::1 at 2015-08-02 12:39:13 -0700
+
+
+Started GET "/assets/foundation-icons.self.css?body=1" for ::1 at 2015-08-02 12:39:13 -0700
+
+
+Started GET "/assets/vendor/modernizr.self.js?body=1" for ::1 at 2015-08-02 12:39:13 -0700
+
+
+Started GET "/assets/jquery.self.js?body=1" for ::1 at 2015-08-02 12:39:13 -0700
+
+
+Started GET "/assets/jquery_ujs.self.js?body=1" for ::1 at 2015-08-02 12:39:13 -0700
+
+
+Started GET "/assets/foundation/foundation.self.js?body=1" for ::1 at 2015-08-02 12:39:13 -0700
+
+
+Started GET "/assets/foundation/foundation.abide.self.js?body=1" for ::1 at 2015-08-02 12:39:13 -0700
+
+
+Started GET "/assets/foundation/foundation.accordion.self.js?body=1" for ::1 at 2015-08-02 12:39:13 -0700
+
+
+Started GET "/assets/foundation/foundation.alert.self.js?body=1" for ::1 at 2015-08-02 12:39:13 -0700
+
+
+Started GET "/assets/foundation/foundation.clearing.self.js?body=1" for ::1 at 2015-08-02 12:39:13 -0700
+
+
+Started GET "/assets/foundation/foundation.dropdown.self.js?body=1" for ::1 at 2015-08-02 12:39:13 -0700
+
+
+Started GET "/assets/foundation/foundation.equalizer.self.js?body=1" for ::1 at 2015-08-02 12:39:13 -0700
+
+
+Started GET "/assets/foundation/foundation.interchange.self.js?body=1" for ::1 at 2015-08-02 12:39:13 -0700
+
+
+Started GET "/assets/foundation/foundation.joyride.self.js?body=1" for ::1 at 2015-08-02 12:39:13 -0700
+
+
+Started GET "/assets/foundation/foundation.magellan.self.js?body=1" for ::1 at 2015-08-02 12:39:13 -0700
+
+
+Started GET "/assets/foundation/foundation.offcanvas.self.js?body=1" for ::1 at 2015-08-02 12:39:13 -0700
+
+
+Started GET "/assets/foundation/foundation.orbit.self.js?body=1" for ::1 at 2015-08-02 12:39:13 -0700
+
+
+Started GET "/assets/foundation/foundation.reveal.self.js?body=1" for ::1 at 2015-08-02 12:39:13 -0700
+
+
+Started GET "/assets/foundation/foundation.slider.self.js?body=1" for ::1 at 2015-08-02 12:39:13 -0700
+
+
+Started GET "/assets/foundation/foundation.tab.self.js?body=1" for ::1 at 2015-08-02 12:39:13 -0700
+
+
+Started GET "/assets/foundation/foundation.tooltip.self.js?body=1" for ::1 at 2015-08-02 12:39:13 -0700
+
+
+Started GET "/assets/foundation/foundation.topbar.self.js?body=1" for ::1 at 2015-08-02 12:39:13 -0700
+
+
+Started GET "/assets/foundation.self.js?body=1" for ::1 at 2015-08-02 12:39:13 -0700
+
+
+Started GET "/assets/turbolinks.self.js?body=1" for ::1 at 2015-08-02 12:39:13 -0700
+
+
+Started GET "/assets/home.self.js?body=1" for ::1 at 2015-08-02 12:39:13 -0700
+
+
+Started GET "/assets/jquery.scrollTo.self.js?body=1" for ::1 at 2015-08-02 12:39:13 -0700
+
+
+Started GET "/assets/application.self.js?body=1" for ::1 at 2015-08-02 12:39:13 -0700
+
+
+Started GET "/assets/sign2.png" for ::1 at 2015-08-02 12:39:13 -0700
+
+ActionController::RoutingError (No route matches [GET] "/assets/sign2.png"):
+  actionpack (4.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.1) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.1) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.1) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.1) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.1) lib/rails/engine.rb:518:in `call'
+  railties (4.2.1) lib/rails/application.rb:164:in `call'
+  rack (1.6.1) lib/rack/lock.rb:17:in `call'
+  rack (1.6.1) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.1) lib/rack/handler/webrick.rb:89:in `service'
+  /Users/apprentice/.rbenv/versions/2.0.0-p353/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/apprentice/.rbenv/versions/2.0.0-p353/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/apprentice/.rbenv/versions/2.0.0-p353/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/apprentice/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.0ms)
+  Rendered /Users/apprentice/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.1ms)
+  Rendered /Users/apprentice/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (2.6ms)
+  Rendered /Users/apprentice/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.8ms)
+  Rendered /Users/apprentice/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (38.9ms)
+
+
+Started GET "/assets/train.png" for ::1 at 2015-08-02 12:39:14 -0700
+
+
+Started GET "/assets/bathroom-port.png" for ::1 at 2015-08-02 12:39:14 -0700
+
+
+Started GET "/assets/dining-port.png" for ::1 at 2015-08-02 12:39:14 -0700
+
+
+Started GET "/assets/tree.png" for ::1 at 2015-08-02 12:39:14 -0700
+
+
+Started GET "/assets/courthouse.png" for ::1 at 2015-08-02 12:39:14 -0700
+
+
+Started GET "/assets/fontawesome-webfont.woff2?v=4.3.0" for ::1 at 2015-08-02 12:39:14 -0700
+
+
+Started GET "/assets/foundation-icons.woff" for ::1 at 2015-08-02 12:39:14 -0700
+
+
+Started GET "/assets/garage-port.png" for ::1 at 2015-08-02 12:39:14 -0700
+
+
+Started GET "/assets/bar-port.png" for ::1 at 2015-08-02 12:39:14 -0700
+
+
+Started GET "/assets/bath2-port.png" for ::1 at 2015-08-02 12:39:14 -0700
+
+
+Started GET "/assets/foyer-port.png" for ::1 at 2015-08-02 12:39:14 -0700
+
+
+Started GET "/assets/shower-port.png" for ::1 at 2015-08-02 12:39:14 -0700
+
+
+Started GET "/assets/hvac-port.png" for ::1 at 2015-08-02 12:39:14 -0700
+
+
+Started GET "/" for ::1 at 2015-08-02 12:39:20 -0700
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (32.5ms)
+Completed 200 OK in 278ms (Views: 276.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.self.css?body=1" for ::1 at 2015-08-02 12:39:20 -0700
+
+
+Started GET "/assets/application.self.css?body=1" for ::1 at 2015-08-02 12:39:20 -0700
+
+
+Started GET "/assets/custom.self.css?body=1" for ::1 at 2015-08-02 12:39:20 -0700
+
+
+Started GET "/assets/foundation_and_overrides.self.css?body=1" for ::1 at 2015-08-02 12:39:20 -0700
+
+
+Started GET "/assets/home.self.css?body=1" for ::1 at 2015-08-02 12:39:20 -0700
+
+
+Started GET "/assets/font-awesome.self.css?body=1" for ::1 at 2015-08-02 12:39:20 -0700
+
+
+Started GET "/assets/foundation-icons.self.css?body=1" for ::1 at 2015-08-02 12:39:20 -0700
+
+
+Started GET "/assets/vendor/modernizr.self.js?body=1" for ::1 at 2015-08-02 12:39:20 -0700
+
+
+Started GET "/assets/jquery_ujs.self.js?body=1" for ::1 at 2015-08-02 12:39:20 -0700
+
+
+Started GET "/assets/foundation/foundation.self.js?body=1" for ::1 at 2015-08-02 12:39:20 -0700
+
+
+Started GET "/assets/foundation/foundation.abide.self.js?body=1" for ::1 at 2015-08-02 12:39:20 -0700
+
+
+Started GET "/assets/foundation/foundation.accordion.self.js?body=1" for ::1 at 2015-08-02 12:39:20 -0700
+
+
+Started GET "/assets/jquery.self.js?body=1" for ::1 at 2015-08-02 12:39:20 -0700
+
+
+Started GET "/assets/foundation/foundation.alert.self.js?body=1" for ::1 at 2015-08-02 12:39:20 -0700
+
+
+Started GET "/assets/foundation/foundation.clearing.self.js?body=1" for ::1 at 2015-08-02 12:39:20 -0700
+
+
+Started GET "/assets/foundation/foundation.dropdown.self.js?body=1" for ::1 at 2015-08-02 12:39:20 -0700
+
+
+Started GET "/assets/foundation/foundation.equalizer.self.js?body=1" for ::1 at 2015-08-02 12:39:20 -0700
+
+
+Started GET "/assets/foundation/foundation.interchange.self.js?body=1" for ::1 at 2015-08-02 12:39:20 -0700
+
+
+Started GET "/assets/foundation/foundation.joyride.self.js?body=1" for ::1 at 2015-08-02 12:39:20 -0700
+
+
+Started GET "/assets/foundation/foundation.magellan.self.js?body=1" for ::1 at 2015-08-02 12:39:20 -0700
+
+
+Started GET "/assets/foundation/foundation.offcanvas.self.js?body=1" for ::1 at 2015-08-02 12:39:20 -0700
+
+
+Started GET "/assets/foundation/foundation.orbit.self.js?body=1" for ::1 at 2015-08-02 12:39:20 -0700
+
+
+Started GET "/assets/foundation/foundation.reveal.self.js?body=1" for ::1 at 2015-08-02 12:39:20 -0700
+
+
+Started GET "/assets/foundation/foundation.slider.self.js?body=1" for ::1 at 2015-08-02 12:39:20 -0700
+
+
+Started GET "/assets/foundation/foundation.tab.self.js?body=1" for ::1 at 2015-08-02 12:39:20 -0700
+
+
+Started GET "/assets/foundation/foundation.tooltip.self.js?body=1" for ::1 at 2015-08-02 12:39:20 -0700
+
+
+Started GET "/assets/foundation/foundation.topbar.self.js?body=1" for ::1 at 2015-08-02 12:39:20 -0700
+
+
+Started GET "/assets/foundation.self.js?body=1" for ::1 at 2015-08-02 12:39:20 -0700
+
+
+Started GET "/assets/turbolinks.self.js?body=1" for ::1 at 2015-08-02 12:39:20 -0700
+
+
+Started GET "/assets/home.self.js?body=1" for ::1 at 2015-08-02 12:39:20 -0700
+
+
+Started GET "/assets/jquery.scrollTo.self.js?body=1" for ::1 at 2015-08-02 12:39:20 -0700
+
+
+Started GET "/assets/application.self.js?body=1" for ::1 at 2015-08-02 12:39:20 -0700
+
+
+Started GET "/assets/sign3.png" for ::1 at 2015-08-02 12:39:20 -0700
+
+
+Started GET "/assets/courthouse.png" for ::1 at 2015-08-02 12:39:20 -0700
+
+
+Started GET "/assets/tree.png" for ::1 at 2015-08-02 12:39:20 -0700
+
+
+Started GET "/assets/bathroom-port.png" for ::1 at 2015-08-02 12:39:20 -0700
+
+
+Started GET "/assets/dining-port.png" for ::1 at 2015-08-02 12:39:20 -0700
+
+
+Started GET "/assets/fontawesome-webfont.woff2?v=4.3.0" for ::1 at 2015-08-02 12:39:20 -0700
+
+
+Started GET "/assets/train.png" for ::1 at 2015-08-02 12:39:20 -0700
+
+
+Started GET "/assets/foundation-icons.woff" for ::1 at 2015-08-02 12:39:21 -0700
+
+
+Started GET "/assets/bar-port.png" for ::1 at 2015-08-02 12:39:21 -0700
+
+
+Started GET "/assets/garage-port.png" for ::1 at 2015-08-02 12:39:21 -0700
+
+
+Started GET "/assets/bath2-port.png" for ::1 at 2015-08-02 12:39:21 -0700
+
+
+Started GET "/assets/foyer-port.png" for ::1 at 2015-08-02 12:39:21 -0700
+
+
+Started GET "/assets/shower-port.png" for ::1 at 2015-08-02 12:39:21 -0700
+
+
+Started GET "/assets/hvac-port.png" for ::1 at 2015-08-02 12:39:21 -0700
+
+
+Started GET "/" for ::1 at 2015-08-02 12:39:44 -0700
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (140.0ms)
+Completed 200 OK in 300ms (Views: 299.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.self.css?body=1" for ::1 at 2015-08-02 12:39:45 -0700
+
+
+Started GET "/assets/foundation_and_overrides.self.css?body=1" for ::1 at 2015-08-02 12:39:45 -0700
+
+
+Started GET "/assets/font-awesome.self.css?body=1" for ::1 at 2015-08-02 12:39:45 -0700
+
+
+Started GET "/assets/vendor/modernizr.self.js?body=1" for ::1 at 2015-08-02 12:39:45 -0700
+
+
+Started GET "/assets/application.self.css?body=1" for ::1 at 2015-08-02 12:39:45 -0700
+
+
+Started GET "/assets/foundation.self.css?body=1" for ::1 at 2015-08-02 12:39:45 -0700
+
+
+Started GET "/assets/foundation-icons.self.css?body=1" for ::1 at 2015-08-02 12:39:45 -0700
+
+
+Started GET "/assets/home.self.css?body=1" for ::1 at 2015-08-02 12:39:45 -0700
+
+
+Started GET "/assets/jquery.self.js?body=1" for ::1 at 2015-08-02 12:39:45 -0700
+
+
+Started GET "/assets/foundation/foundation.self.js?body=1" for ::1 at 2015-08-02 12:39:45 -0700
+
+
+Started GET "/assets/foundation/foundation.abide.self.js?body=1" for ::1 at 2015-08-02 12:39:45 -0700
+
+
+Started GET "/assets/foundation/foundation.alert.self.js?body=1" for ::1 at 2015-08-02 12:39:45 -0700
+
+
+Started GET "/assets/foundation/foundation.accordion.self.js?body=1" for ::1 at 2015-08-02 12:39:45 -0700
+
+
+Started GET "/assets/foundation/foundation.dropdown.self.js?body=1" for ::1 at 2015-08-02 12:39:45 -0700
+
+
+Started GET "/assets/foundation/foundation.clearing.self.js?body=1" for ::1 at 2015-08-02 12:39:45 -0700
+
+
+Started GET "/assets/jquery_ujs.self.js?body=1" for ::1 at 2015-08-02 12:39:45 -0700
+
+
+Started GET "/assets/foundation/foundation.equalizer.self.js?body=1" for ::1 at 2015-08-02 12:39:45 -0700
+
+
+Started GET "/assets/foundation/foundation.interchange.self.js?body=1" for ::1 at 2015-08-02 12:39:45 -0700
+
+
+Started GET "/assets/foundation/foundation.joyride.self.js?body=1" for ::1 at 2015-08-02 12:39:45 -0700
+
+
+Started GET "/assets/foundation/foundation.magellan.self.js?body=1" for ::1 at 2015-08-02 12:39:45 -0700
+
+
+Started GET "/assets/foundation/foundation.offcanvas.self.js?body=1" for ::1 at 2015-08-02 12:39:45 -0700
+
+
+Started GET "/assets/foundation/foundation.orbit.self.js?body=1" for ::1 at 2015-08-02 12:39:45 -0700
+
+
+Started GET "/assets/foundation/foundation.reveal.self.js?body=1" for ::1 at 2015-08-02 12:39:45 -0700
+
+
+Started GET "/assets/foundation/foundation.slider.self.js?body=1" for ::1 at 2015-08-02 12:39:45 -0700
+
+
+Started GET "/assets/foundation/foundation.tab.self.js?body=1" for ::1 at 2015-08-02 12:39:45 -0700
+
+
+Started GET "/assets/foundation/foundation.tooltip.self.js?body=1" for ::1 at 2015-08-02 12:39:45 -0700
+
+
+Started GET "/assets/foundation/foundation.topbar.self.js?body=1" for ::1 at 2015-08-02 12:39:45 -0700
+
+
+Started GET "/assets/foundation.self.js?body=1" for ::1 at 2015-08-02 12:39:45 -0700
+
+
+Started GET "/assets/turbolinks.self.js?body=1" for ::1 at 2015-08-02 12:39:45 -0700
+
+
+Started GET "/assets/jquery.scrollTo.self.js?body=1" for ::1 at 2015-08-02 12:39:45 -0700
+
+
+Started GET "/assets/application.self.js?body=1" for ::1 at 2015-08-02 12:39:45 -0700
+
+
+Started GET "/assets/home.self.js?body=1" for ::1 at 2015-08-02 12:39:45 -0700
+
+
+Started GET "/assets/sign3.png" for ::1 at 2015-08-02 12:39:45 -0700
+
+
+Started GET "/assets/courthouse.png" for ::1 at 2015-08-02 12:39:45 -0700
+
+
+Started GET "/assets/bar-port.png" for ::1 at 2015-08-02 12:39:45 -0700
+
+
+Started GET "/assets/dining-port.png" for ::1 at 2015-08-02 12:39:45 -0700
+
+
+Started GET "/assets/tree.png" for ::1 at 2015-08-02 12:39:45 -0700
+
+
+Started GET "/assets/bathroom-port.png" for ::1 at 2015-08-02 12:39:45 -0700
+
+
+Started GET "/assets/fontawesome-webfont.woff2?v=4.3.0" for ::1 at 2015-08-02 12:39:45 -0700
+
+
+Started GET "/assets/train.png" for ::1 at 2015-08-02 12:39:45 -0700
+
+
+Started GET "/assets/foundation-icons.woff" for ::1 at 2015-08-02 12:39:45 -0700
+
+
+Started GET "/assets/garage-port.png" for ::1 at 2015-08-02 12:39:45 -0700
+
+
+Started GET "/assets/bath2-port.png" for ::1 at 2015-08-02 12:39:45 -0700
+
+
+Started GET "/assets/foyer-port.png" for ::1 at 2015-08-02 12:39:45 -0700
+
+
+Started GET "/assets/shower-port.png" for ::1 at 2015-08-02 12:39:45 -0700
+
+
+Started GET "/assets/hvac-port.png" for ::1 at 2015-08-02 12:39:45 -0700
+
+
+Started GET "/" for ::1 at 2015-08-02 12:39:51 -0700
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (53.4ms)
+Completed 200 OK in 329ms (Views: 328.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation_and_overrides.self.css?body=1" for ::1 at 2015-08-02 12:39:51 -0700
+
+
+Started GET "/assets/home.self.css?body=1" for ::1 at 2015-08-02 12:39:51 -0700
+
+
+Started GET "/assets/font-awesome.self.css?body=1" for ::1 at 2015-08-02 12:39:51 -0700
+
+
+Started GET "/assets/custom.self.css?body=1" for ::1 at 2015-08-02 12:39:51 -0700
+
+
+Started GET "/assets/application.self.css?body=1" for ::1 at 2015-08-02 12:39:51 -0700
+
+
+Started GET "/assets/foundation.self.css?body=1" for ::1 at 2015-08-02 12:39:51 -0700
+
+
+Started GET "/assets/foundation-icons.self.css?body=1" for ::1 at 2015-08-02 12:39:51 -0700
+
+
+Started GET "/assets/vendor/modernizr.self.js?body=1" for ::1 at 2015-08-02 12:39:51 -0700
+
+
+Started GET "/assets/jquery.self.js?body=1" for ::1 at 2015-08-02 12:39:51 -0700
+
+
+Started GET "/assets/jquery_ujs.self.js?body=1" for ::1 at 2015-08-02 12:39:51 -0700
+
+
+Started GET "/assets/foundation/foundation.self.js?body=1" for ::1 at 2015-08-02 12:39:51 -0700
+
+
+Started GET "/assets/foundation/foundation.abide.self.js?body=1" for ::1 at 2015-08-02 12:39:51 -0700
+
+
+Started GET "/assets/foundation/foundation.accordion.self.js?body=1" for ::1 at 2015-08-02 12:39:51 -0700
+
+
+Started GET "/assets/foundation/foundation.alert.self.js?body=1" for ::1 at 2015-08-02 12:39:51 -0700
+
+
+Started GET "/assets/foundation/foundation.clearing.self.js?body=1" for ::1 at 2015-08-02 12:39:51 -0700
+
+
+Started GET "/assets/foundation/foundation.magellan.self.js?body=1" for ::1 at 2015-08-02 12:39:51 -0700
+
+
+Started GET "/assets/foundation/foundation.equalizer.self.js?body=1" for ::1 at 2015-08-02 12:39:51 -0700
+
+
+Started GET "/assets/foundation/foundation.interchange.self.js?body=1" for ::1 at 2015-08-02 12:39:51 -0700
+
+
+Started GET "/assets/foundation/foundation.joyride.self.js?body=1" for ::1 at 2015-08-02 12:39:51 -0700
+
+
+Started GET "/assets/foundation/foundation.dropdown.self.js?body=1" for ::1 at 2015-08-02 12:39:51 -0700
+
+
+Started GET "/assets/foundation/foundation.offcanvas.self.js?body=1" for ::1 at 2015-08-02 12:39:51 -0700
+
+
+Started GET "/assets/foundation/foundation.orbit.self.js?body=1" for ::1 at 2015-08-02 12:39:51 -0700
+
+
+Started GET "/assets/foundation/foundation.reveal.self.js?body=1" for ::1 at 2015-08-02 12:39:51 -0700
+
+
+Started GET "/assets/foundation/foundation.slider.self.js?body=1" for ::1 at 2015-08-02 12:39:51 -0700
+
+
+Started GET "/assets/foundation/foundation.tab.self.js?body=1" for ::1 at 2015-08-02 12:39:51 -0700
+
+
+Started GET "/assets/foundation/foundation.tooltip.self.js?body=1" for ::1 at 2015-08-02 12:39:51 -0700
+
+
+Started GET "/assets/foundation/foundation.topbar.self.js?body=1" for ::1 at 2015-08-02 12:39:51 -0700
+
+
+Started GET "/assets/foundation.self.js?body=1" for ::1 at 2015-08-02 12:39:51 -0700
+
+
+Started GET "/assets/turbolinks.self.js?body=1" for ::1 at 2015-08-02 12:39:51 -0700
+
+
+Started GET "/assets/home.self.js?body=1" for ::1 at 2015-08-02 12:39:51 -0700
+
+
+Started GET "/assets/jquery.scrollTo.self.js?body=1" for ::1 at 2015-08-02 12:39:51 -0700
+
+
+Started GET "/assets/application.self.js?body=1" for ::1 at 2015-08-02 12:39:51 -0700
+
+
+Started GET "/assets/sign3.png" for ::1 at 2015-08-02 12:39:51 -0700
+
+
+Started GET "/assets/train.png" for ::1 at 2015-08-02 12:39:51 -0700
+
+
+Started GET "/assets/tree.png" for ::1 at 2015-08-02 12:39:51 -0700
+
+
+Started GET "/assets/dining-port.png" for ::1 at 2015-08-02 12:39:51 -0700
+
+
+Started GET "/assets/bathroom-port.png" for ::1 at 2015-08-02 12:39:51 -0700
+
+
+Started GET "/assets/courthouse.png" for ::1 at 2015-08-02 12:39:51 -0700
+
+
+Started GET "/assets/bar-port.png" for ::1 at 2015-08-02 12:39:51 -0700
+
+
+Started GET "/assets/foundation-icons.woff" for ::1 at 2015-08-02 12:39:51 -0700
+
+
+Started GET "/assets/fontawesome-webfont.woff2?v=4.3.0" for ::1 at 2015-08-02 12:39:51 -0700
+
+
+Started GET "/assets/garage-port.png" for ::1 at 2015-08-02 12:39:51 -0700
+
+
+Started GET "/assets/bath2-port.png" for ::1 at 2015-08-02 12:39:51 -0700
+
+
+Started GET "/assets/hvac-port.png" for ::1 at 2015-08-02 12:39:51 -0700
+
+
+Started GET "/assets/foyer-port.png" for ::1 at 2015-08-02 12:39:51 -0700
+
+
+Started GET "/assets/shower-port.png" for ::1 at 2015-08-02 12:39:51 -0700
+
+
+Started GET "/" for ::1 at 2015-08-02 12:39:57 -0700
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (22.4ms)
+Completed 200 OK in 314ms (Views: 313.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.self.css?body=1" for ::1 at 2015-08-02 12:39:57 -0700
+
+
+Started GET "/assets/home.self.css?body=1" for ::1 at 2015-08-02 12:39:57 -0700
+
+
+Started GET "/assets/font-awesome.self.css?body=1" for ::1 at 2015-08-02 12:39:57 -0700
+
+
+Started GET "/assets/foundation_and_overrides.self.css?body=1" for ::1 at 2015-08-02 12:39:57 -0700
+
+
+Started GET "/assets/application.self.css?body=1" for ::1 at 2015-08-02 12:39:57 -0700
+
+
+Started GET "/assets/foundation.self.css?body=1" for ::1 at 2015-08-02 12:39:57 -0700
+
+
+Started GET "/assets/foundation-icons.self.css?body=1" for ::1 at 2015-08-02 12:39:57 -0700
+
+
+Started GET "/assets/vendor/modernizr.self.js?body=1" for ::1 at 2015-08-02 12:39:57 -0700
+
+
+Started GET "/assets/jquery.self.js?body=1" for ::1 at 2015-08-02 12:39:57 -0700
+
+
+Started GET "/assets/jquery_ujs.self.js?body=1" for ::1 at 2015-08-02 12:39:57 -0700
+
+
+Started GET "/assets/foundation/foundation.self.js?body=1" for ::1 at 2015-08-02 12:39:57 -0700
+
+
+Started GET "/assets/foundation/foundation.abide.self.js?body=1" for ::1 at 2015-08-02 12:39:57 -0700
+
+
+Started GET "/assets/foundation/foundation.accordion.self.js?body=1" for ::1 at 2015-08-02 12:39:57 -0700
+
+
+Started GET "/assets/foundation/foundation.alert.self.js?body=1" for ::1 at 2015-08-02 12:39:57 -0700
+
+
+Started GET "/assets/foundation/foundation.clearing.self.js?body=1" for ::1 at 2015-08-02 12:39:57 -0700
+
+
+Started GET "/assets/foundation/foundation.dropdown.self.js?body=1" for ::1 at 2015-08-02 12:39:57 -0700
+
+
+Started GET "/assets/foundation/foundation.equalizer.self.js?body=1" for ::1 at 2015-08-02 12:39:57 -0700
+
+
+Started GET "/assets/foundation/foundation.interchange.self.js?body=1" for ::1 at 2015-08-02 12:39:57 -0700
+
+
+Started GET "/assets/foundation/foundation.joyride.self.js?body=1" for ::1 at 2015-08-02 12:39:57 -0700
+
+
+Started GET "/assets/foundation/foundation.magellan.self.js?body=1" for ::1 at 2015-08-02 12:39:57 -0700
+
+
+Started GET "/assets/foundation/foundation.offcanvas.self.js?body=1" for ::1 at 2015-08-02 12:39:58 -0700
+
+
+Started GET "/assets/foundation/foundation.orbit.self.js?body=1" for ::1 at 2015-08-02 12:39:58 -0700
+
+
+Started GET "/assets/foundation/foundation.reveal.self.js?body=1" for ::1 at 2015-08-02 12:39:58 -0700
+
+
+Started GET "/assets/foundation/foundation.slider.self.js?body=1" for ::1 at 2015-08-02 12:39:58 -0700
+
+
+Started GET "/assets/foundation/foundation.tab.self.js?body=1" for ::1 at 2015-08-02 12:39:58 -0700
+
+
+Started GET "/assets/foundation/foundation.tooltip.self.js?body=1" for ::1 at 2015-08-02 12:39:58 -0700
+
+
+Started GET "/assets/foundation/foundation.topbar.self.js?body=1" for ::1 at 2015-08-02 12:39:58 -0700
+
+
+Started GET "/assets/foundation.self.js?body=1" for ::1 at 2015-08-02 12:39:58 -0700
+
+
+Started GET "/assets/turbolinks.self.js?body=1" for ::1 at 2015-08-02 12:39:58 -0700
+
+
+Started GET "/assets/home.self.js?body=1" for ::1 at 2015-08-02 12:39:58 -0700
+
+
+Started GET "/assets/jquery.scrollTo.self.js?body=1" for ::1 at 2015-08-02 12:39:58 -0700
+
+
+Started GET "/assets/application.self.js?body=1" for ::1 at 2015-08-02 12:39:58 -0700
+
+
+Started GET "/assets/sign3.png" for ::1 at 2015-08-02 12:39:58 -0700
+
+
+Started GET "/assets/train.png" for ::1 at 2015-08-02 12:39:58 -0700
+
+
+Started GET "/assets/tree.png" for ::1 at 2015-08-02 12:39:58 -0700
+
+
+Started GET "/assets/fontawesome-webfont.woff2?v=4.3.0" for ::1 at 2015-08-02 12:39:58 -0700
+
+
+Started GET "/assets/bathroom-port.png" for ::1 at 2015-08-02 12:39:58 -0700
+
+
+Started GET "/assets/courthouse.png" for ::1 at 2015-08-02 12:39:58 -0700
+
+
+Started GET "/assets/dining-port.png" for ::1 at 2015-08-02 12:39:58 -0700
+
+
+Started GET "/assets/shower-port.png" for ::1 at 2015-08-02 12:39:58 -0700
+
+
+Started GET "/assets/foundation-icons.woff" for ::1 at 2015-08-02 12:39:58 -0700
+
+
+Started GET "/assets/garage-port.png" for ::1 at 2015-08-02 12:39:58 -0700
+
+
+Started GET "/assets/bath2-port.png" for ::1 at 2015-08-02 12:39:58 -0700
+
+
+Started GET "/assets/bar-port.png" for ::1 at 2015-08-02 12:39:58 -0700
+
+
+Started GET "/assets/hvac-port.png" for ::1 at 2015-08-02 12:39:58 -0700
+
+
+Started GET "/assets/foyer-port.png" for ::1 at 2015-08-02 12:39:58 -0700
