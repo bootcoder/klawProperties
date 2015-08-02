@@ -112,9 +112,9 @@ GEM
     font-awesome-rails (4.3.0.0)
       railties (>= 3.2, < 5.0)
     formatador (0.2.5)
-    foundation-rails (5.5.2.1)
+    foundation-rails (5.4.3.1)
       railties (>= 3.1.0)
-      sass (>= 3.3.0, < 3.5)
+      sass (>= 3.2.0)
     globalid (0.3.5)
       activesupport (>= 4.1.0)
     guard (2.12.5)
@@ -202,7 +202,7 @@ GEM
     pry-doc (0.6.0)
       pry (~> 0.9)
       yard (~> 0.8)
-    rack (1.6.1)
+    rack (1.6.4)
     rack-test (0.6.3)
       rack (>= 1.0)
     rails (4.2.1)
@@ -260,7 +260,7 @@ GEM
     ruby_parser (3.7.0)
       sexp_processor (~> 4.1)
     rubyzip (1.1.7)
-    sass (3.4.14)
+    sass (3.4.16)
     sass-rails (5.0.3)
       railties (>= 4.0.0, < 5.0)
       sass (~> 3.1)
@@ -326,7 +326,7 @@ DEPENDENCIES
   factory_girl_rails
   faker
   font-awesome-rails
-  foundation-rails
+  foundation-rails (= 5.4.3.1)
   guard-livereload
   guard-rspec
   guard-spork

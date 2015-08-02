@@ -7,7 +7,7 @@ gem 'spring',        group: :development
 
 gem 'sass-rails'
 gem 'haml-rails'
-gem 'foundation-rails'
+gem 'foundation-rails', '5.4.3.1'
 gem 'uglifier'
 gem 'coffee-rails'
 
