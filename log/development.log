@@ -35473,3 +35473,435 @@ Started GET "/assets/foyer-port.png" for ::1 at 2015-08-02 12:45:30 -0700
 
 
 Started GET "/assets/hvac-port.png" for ::1 at 2015-08-02 12:45:30 -0700
+
+
+Started GET "/" for ::1 at 2015-08-02 12:49:06 -0700
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (9.6ms)
+Completed 200 OK in 213ms (Views: 212.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation_and_overrides.self.css?body=1" for ::1 at 2015-08-02 12:49:06 -0700
+
+
+Started GET "/assets/foundation.self.css?body=1" for ::1 at 2015-08-02 12:49:06 -0700
+
+
+Started GET "/assets/custom.self.css?body=1" for ::1 at 2015-08-02 12:49:06 -0700
+
+
+Started GET "/assets/application.self.css?body=1" for ::1 at 2015-08-02 12:49:06 -0700
+
+
+Started GET "/assets/vendor/modernizr.self.js?body=1" for ::1 at 2015-08-02 12:49:06 -0700
+
+
+Started GET "/assets/foundation-icons.self.css?body=1" for ::1 at 2015-08-02 12:49:06 -0700
+
+
+Started GET "/assets/font-awesome.self.css?body=1" for ::1 at 2015-08-02 12:49:06 -0700
+
+
+Started GET "/assets/home.self.css?body=1" for ::1 at 2015-08-02 12:49:06 -0700
+
+
+Started GET "/assets/jquery.self.js?body=1" for ::1 at 2015-08-02 12:49:06 -0700
+
+
+Started GET "/assets/jquery_ujs.self.js?body=1" for ::1 at 2015-08-02 12:49:06 -0700
+
+
+Started GET "/assets/foundation/foundation.self.js?body=1" for ::1 at 2015-08-02 12:49:06 -0700
+
+
+Started GET "/assets/foundation/foundation.abide.self.js?body=1" for ::1 at 2015-08-02 12:49:06 -0700
+
+
+Started GET "/assets/foundation/foundation.accordion.self.js?body=1" for ::1 at 2015-08-02 12:49:06 -0700
+
+
+Started GET "/assets/foundation/foundation.alert.self.js?body=1" for ::1 at 2015-08-02 12:49:06 -0700
+
+
+Started GET "/assets/foundation/foundation.clearing.self.js?body=1" for ::1 at 2015-08-02 12:49:06 -0700
+
+
+Started GET "/assets/foundation/foundation.dropdown.self.js?body=1" for ::1 at 2015-08-02 12:49:06 -0700
+
+
+Started GET "/assets/foundation/foundation.equalizer.self.js?body=1" for ::1 at 2015-08-02 12:49:06 -0700
+
+
+Started GET "/assets/foundation/foundation.interchange.self.js?body=1" for ::1 at 2015-08-02 12:49:06 -0700
+
+
+Started GET "/assets/foundation/foundation.magellan.self.js?body=1" for ::1 at 2015-08-02 12:49:06 -0700
+
+
+Started GET "/assets/foundation/foundation.joyride.self.js?body=1" for ::1 at 2015-08-02 12:49:06 -0700
+
+
+Started GET "/assets/foundation/foundation.offcanvas.self.js?body=1" for ::1 at 2015-08-02 12:49:06 -0700
+
+
+Started GET "/assets/foundation/foundation.orbit.self.js?body=1" for ::1 at 2015-08-02 12:49:06 -0700
+
+
+Started GET "/assets/foundation/foundation.slider.self.js?body=1" for ::1 at 2015-08-02 12:49:06 -0700
+
+
+Started GET "/assets/foundation/foundation.reveal.self.js?body=1" for ::1 at 2015-08-02 12:49:06 -0700
+
+
+Started GET "/assets/foundation/foundation.tab.self.js?body=1" for ::1 at 2015-08-02 12:49:06 -0700
+
+
+Started GET "/assets/foundation/foundation.topbar.self.js?body=1" for ::1 at 2015-08-02 12:49:06 -0700
+
+
+Started GET "/assets/foundation/foundation.tooltip.self.js?body=1" for ::1 at 2015-08-02 12:49:06 -0700
+
+
+Started GET "/assets/foundation.self.js?body=1" for ::1 at 2015-08-02 12:49:06 -0700
+
+
+Started GET "/assets/turbolinks.self.js?body=1" for ::1 at 2015-08-02 12:49:06 -0700
+
+
+Started GET "/assets/home.self.js?body=1" for ::1 at 2015-08-02 12:49:06 -0700
+
+
+Started GET "/assets/jquery.scrollTo.self.js?body=1" for ::1 at 2015-08-02 12:49:06 -0700
+
+
+Started GET "/assets/application.self.js?body=1" for ::1 at 2015-08-02 12:49:06 -0700
+
+
+Started GET "/assets/courthouse.png" for ::1 at 2015-08-02 12:49:06 -0700
+
+
+Started GET "/assets/tree.png" for ::1 at 2015-08-02 12:49:06 -0700
+
+
+Started GET "/assets/garage-port.png" for ::1 at 2015-08-02 12:49:06 -0700
+
+
+Started GET "/assets/dining-port.png" for ::1 at 2015-08-02 12:49:06 -0700
+
+
+Started GET "/assets/bar-port.png" for ::1 at 2015-08-02 12:49:06 -0700
+
+
+Started GET "/assets/bathroom-port.png" for ::1 at 2015-08-02 12:49:06 -0700
+
+
+Started GET "/assets/train.png" for ::1 at 2015-08-02 12:49:06 -0700
+
+
+Started GET "/assets/foundation-icons.woff" for ::1 at 2015-08-02 12:49:06 -0700
+
+
+Started GET "/assets/bath2-port.png" for ::1 at 2015-08-02 12:49:06 -0700
+
+
+Started GET "/assets/foyer-port.png" for ::1 at 2015-08-02 12:49:06 -0700
+
+
+Started GET "/assets/fontawesome-webfont.woff2?v=4.3.0" for ::1 at 2015-08-02 12:49:06 -0700
+
+
+Started GET "/assets/shower-port.png" for ::1 at 2015-08-02 12:49:06 -0700
+
+
+Started GET "/assets/hvac-port.png" for ::1 at 2015-08-02 12:49:06 -0700
+
+
+Started GET "/assets/sign3.png" for ::1 at 2015-08-02 12:49:06 -0700
+
+
+Started GET "/" for ::1 at 2015-08-02 12:54:14 -0700
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (145.5ms)
+Completed 200 OK in 347ms (Views: 345.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.self.css?body=1" for ::1 at 2015-08-02 12:54:14 -0700
+
+
+Started GET "/assets/foundation_and_overrides.self.css?body=1" for ::1 at 2015-08-02 12:54:14 -0700
+
+
+Started GET "/assets/home.self.css?body=1" for ::1 at 2015-08-02 12:54:14 -0700
+
+
+Started GET "/assets/application.self.css?body=1" for ::1 at 2015-08-02 12:54:15 -0700
+
+
+Started GET "/assets/foundation.self.css?body=1" for ::1 at 2015-08-02 12:54:15 -0700
+
+
+Started GET "/assets/font-awesome.self.css?body=1" for ::1 at 2015-08-02 12:54:15 -0700
+
+
+Started GET "/assets/foundation-icons.self.css?body=1" for ::1 at 2015-08-02 12:54:15 -0700
+
+
+Started GET "/assets/vendor/modernizr.self.js?body=1" for ::1 at 2015-08-02 12:54:15 -0700
+
+
+Started GET "/assets/jquery.self.js?body=1" for ::1 at 2015-08-02 12:54:15 -0700
+
+
+Started GET "/assets/jquery_ujs.self.js?body=1" for ::1 at 2015-08-02 12:54:15 -0700
+
+
+Started GET "/assets/foundation/foundation.self.js?body=1" for ::1 at 2015-08-02 12:54:15 -0700
+
+
+Started GET "/assets/foundation/foundation.abide.self.js?body=1" for ::1 at 2015-08-02 12:54:15 -0700
+
+
+Started GET "/assets/foundation/foundation.accordion.self.js?body=1" for ::1 at 2015-08-02 12:54:15 -0700
+
+
+Started GET "/assets/foundation/foundation.alert.self.js?body=1" for ::1 at 2015-08-02 12:54:15 -0700
+
+
+Started GET "/assets/foundation/foundation.clearing.self.js?body=1" for ::1 at 2015-08-02 12:54:15 -0700
+
+
+Started GET "/assets/foundation/foundation.dropdown.self.js?body=1" for ::1 at 2015-08-02 12:54:15 -0700
+
+
+Started GET "/assets/foundation/foundation.equalizer.self.js?body=1" for ::1 at 2015-08-02 12:54:15 -0700
+
+
+Started GET "/assets/foundation/foundation.interchange.self.js?body=1" for ::1 at 2015-08-02 12:54:15 -0700
+
+
+Started GET "/assets/foundation/foundation.joyride.self.js?body=1" for ::1 at 2015-08-02 12:54:15 -0700
+
+
+Started GET "/assets/foundation/foundation.magellan.self.js?body=1" for ::1 at 2015-08-02 12:54:15 -0700
+
+
+Started GET "/assets/foundation/foundation.offcanvas.self.js?body=1" for ::1 at 2015-08-02 12:54:15 -0700
+
+
+Started GET "/assets/foundation/foundation.orbit.self.js?body=1" for ::1 at 2015-08-02 12:54:15 -0700
+
+
+Started GET "/assets/foundation/foundation.reveal.self.js?body=1" for ::1 at 2015-08-02 12:54:15 -0700
+
+
+Started GET "/assets/foundation/foundation.slider.self.js?body=1" for ::1 at 2015-08-02 12:54:15 -0700
+
+
+Started GET "/assets/foundation/foundation.tab.self.js?body=1" for ::1 at 2015-08-02 12:54:15 -0700
+
+
+Started GET "/assets/foundation/foundation.tooltip.self.js?body=1" for ::1 at 2015-08-02 12:54:15 -0700
+
+
+Started GET "/assets/foundation/foundation.topbar.self.js?body=1" for ::1 at 2015-08-02 12:54:15 -0700
+
+
+Started GET "/assets/foundation.self.js?body=1" for ::1 at 2015-08-02 12:54:15 -0700
+
+
+Started GET "/assets/turbolinks.self.js?body=1" for ::1 at 2015-08-02 12:54:15 -0700
+
+
+Started GET "/assets/home.self.js?body=1" for ::1 at 2015-08-02 12:54:15 -0700
+
+
+Started GET "/assets/jquery.scrollTo.self.js?body=1" for ::1 at 2015-08-02 12:54:15 -0700
+
+
+Started GET "/assets/application.self.js?body=1" for ::1 at 2015-08-02 12:54:15 -0700
+
+
+Started GET "/assets/courthouse.png" for ::1 at 2015-08-02 12:54:15 -0700
+
+
+Started GET "/assets/train.png" for ::1 at 2015-08-02 12:54:15 -0700
+
+
+Started GET "/assets/dining-port.png" for ::1 at 2015-08-02 12:54:15 -0700
+
+
+Started GET "/assets/bar-port.png" for ::1 at 2015-08-02 12:54:15 -0700
+
+
+Started GET "/assets/garage-port.png" for ::1 at 2015-08-02 12:54:15 -0700
+
+
+Started GET "/assets/bathroom-port.png" for ::1 at 2015-08-02 12:54:15 -0700
+
+
+Started GET "/assets/tree.png" for ::1 at 2015-08-02 12:54:15 -0700
+
+
+Started GET "/assets/fontawesome-webfont.woff2?v=4.3.0" for ::1 at 2015-08-02 12:54:15 -0700
+
+
+Started GET "/assets/foundation-icons.woff" for ::1 at 2015-08-02 12:54:15 -0700
+
+
+Started GET "/assets/foyer-port.png" for ::1 at 2015-08-02 12:54:15 -0700
+
+
+Started GET "/assets/bath2-port.png" for ::1 at 2015-08-02 12:54:15 -0700
+
+
+Started GET "/assets/shower-port.png" for ::1 at 2015-08-02 12:54:15 -0700
+
+
+Started GET "/assets/sign3.png" for ::1 at 2015-08-02 12:54:15 -0700
+
+
+Started GET "/assets/hvac-port.png" for ::1 at 2015-08-02 12:54:15 -0700
+
+
+Started GET "/" for ::1 at 2015-08-02 12:54:39 -0700
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (25.9ms)
+Completed 200 OK in 326ms (Views: 325.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.self.css?body=1" for ::1 at 2015-08-02 12:54:39 -0700
+
+
+Started GET "/assets/application.self.css?body=1" for ::1 at 2015-08-02 12:54:39 -0700
+
+
+Started GET "/assets/home.self.css?body=1" for ::1 at 2015-08-02 12:54:39 -0700
+
+
+Started GET "/assets/foundation_and_overrides.self.css?body=1" for ::1 at 2015-08-02 12:54:39 -0700
+
+
+Started GET "/assets/font-awesome.self.css?body=1" for ::1 at 2015-08-02 12:54:39 -0700
+
+
+Started GET "/assets/foundation.self.css?body=1" for ::1 at 2015-08-02 12:54:39 -0700
+
+
+Started GET "/assets/vendor/modernizr.self.js?body=1" for ::1 at 2015-08-02 12:54:39 -0700
+
+
+Started GET "/assets/jquery.self.js?body=1" for ::1 at 2015-08-02 12:54:39 -0700
+
+
+Started GET "/assets/jquery_ujs.self.js?body=1" for ::1 at 2015-08-02 12:54:39 -0700
+
+
+Started GET "/assets/foundation-icons.self.css?body=1" for ::1 at 2015-08-02 12:54:39 -0700
+
+
+Started GET "/assets/foundation/foundation.self.js?body=1" for ::1 at 2015-08-02 12:54:39 -0700
+
+
+Started GET "/assets/foundation/foundation.abide.self.js?body=1" for ::1 at 2015-08-02 12:54:39 -0700
+
+
+Started GET "/assets/foundation/foundation.accordion.self.js?body=1" for ::1 at 2015-08-02 12:54:39 -0700
+
+
+Started GET "/assets/foundation/foundation.alert.self.js?body=1" for ::1 at 2015-08-02 12:54:39 -0700
+
+
+Started GET "/assets/foundation/foundation.clearing.self.js?body=1" for ::1 at 2015-08-02 12:54:39 -0700
+
+
+Started GET "/assets/foundation/foundation.dropdown.self.js?body=1" for ::1 at 2015-08-02 12:54:39 -0700
+
+
+Started GET "/assets/foundation/foundation.equalizer.self.js?body=1" for ::1 at 2015-08-02 12:54:39 -0700
+
+
+Started GET "/assets/foundation/foundation.interchange.self.js?body=1" for ::1 at 2015-08-02 12:54:39 -0700
+
+
+Started GET "/assets/foundation/foundation.joyride.self.js?body=1" for ::1 at 2015-08-02 12:54:39 -0700
+
+
+Started GET "/assets/foundation/foundation.magellan.self.js?body=1" for ::1 at 2015-08-02 12:54:39 -0700
+
+
+Started GET "/assets/foundation/foundation.offcanvas.self.js?body=1" for ::1 at 2015-08-02 12:54:39 -0700
+
+
+Started GET "/assets/foundation/foundation.orbit.self.js?body=1" for ::1 at 2015-08-02 12:54:39 -0700
+
+
+Started GET "/assets/foundation/foundation.reveal.self.js?body=1" for ::1 at 2015-08-02 12:54:39 -0700
+
+
+Started GET "/assets/foundation/foundation.slider.self.js?body=1" for ::1 at 2015-08-02 12:54:39 -0700
+
+
+Started GET "/assets/foundation/foundation.tab.self.js?body=1" for ::1 at 2015-08-02 12:54:39 -0700
+
+
+Started GET "/assets/foundation/foundation.tooltip.self.js?body=1" for ::1 at 2015-08-02 12:54:39 -0700
+
+
+Started GET "/assets/foundation/foundation.topbar.self.js?body=1" for ::1 at 2015-08-02 12:54:39 -0700
+
+
+Started GET "/assets/foundation.self.js?body=1" for ::1 at 2015-08-02 12:54:39 -0700
+
+
+Started GET "/assets/turbolinks.self.js?body=1" for ::1 at 2015-08-02 12:54:39 -0700
+
+
+Started GET "/assets/home.self.js?body=1" for ::1 at 2015-08-02 12:54:39 -0700
+
+
+Started GET "/assets/jquery.scrollTo.self.js?body=1" for ::1 at 2015-08-02 12:54:39 -0700
+
+
+Started GET "/assets/application.self.js?body=1" for ::1 at 2015-08-02 12:54:39 -0700
+
+
+Started GET "/assets/courthouse.png" for ::1 at 2015-08-02 12:54:39 -0700
+
+
+Started GET "/assets/train.png" for ::1 at 2015-08-02 12:54:39 -0700
+
+
+Started GET "/assets/bathroom-port.png" for ::1 at 2015-08-02 12:54:39 -0700
+
+
+Started GET "/assets/garage-port.png" for ::1 at 2015-08-02 12:54:39 -0700
+
+
+Started GET "/assets/bar-port.png" for ::1 at 2015-08-02 12:54:39 -0700
+
+
+Started GET "/assets/tree.png" for ::1 at 2015-08-02 12:54:39 -0700
+
+
+Started GET "/assets/dining-port.png" for ::1 at 2015-08-02 12:54:39 -0700
+
+
+Started GET "/assets/fontawesome-webfont.woff2?v=4.3.0" for ::1 at 2015-08-02 12:54:39 -0700
+
+
+Started GET "/assets/foundation-icons.woff" for ::1 at 2015-08-02 12:54:39 -0700
+
+
+Started GET "/assets/sign3.png" for ::1 at 2015-08-02 12:54:39 -0700
+
+
+Started GET "/assets/foyer-port.png" for ::1 at 2015-08-02 12:54:39 -0700
+
+
+Started GET "/assets/bath2-port.png" for ::1 at 2015-08-02 12:54:39 -0700
+
+
+Started GET "/assets/shower-port.png" for ::1 at 2015-08-02 12:54:40 -0700
+
+
+Started GET "/assets/hvac-port.png" for ::1 at 2015-08-02 12:54:40 -0700
